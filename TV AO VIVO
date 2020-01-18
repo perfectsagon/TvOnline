@@ -1,6 +1,6 @@
 <item>
 <tile>CANAIS ABERTOS</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlist.m3u8$$lsname=[COLOR lime]FULLHD[/COLOR] - NOME </link>
+<link>http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlist.m3u8</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=COLAR AQUI$$lsname=[COLOR lime]FULLHD[/COLOR] - NOME </link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=COLAR AQUI$$lsname=[COLOR lime]FULLHD[/COLOR] - NOME </link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=COLAR AQUI$$lsname=[COLOR lime]FULLHD[/COLOR] - NOME </link>

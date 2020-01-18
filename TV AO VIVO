@@ -1,17 +1,15 @@
-<item>
-<tile>CANAIS ABERTOS</title>
-<link>http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlist.m3u8</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=COLAR AQUI$$lsname=[COLOR lime]FULLHD[/COLOR] - NOME </link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=COLAR AQUI$$lsname=[COLOR lime]FULLHD[/COLOR] - NOME </link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=COLAR AQUI$$lsname=[COLOR lime]FULLHD[/COLOR] - NOME </link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=COLAR AQUI$$lsname=[COLOR lime]FULLHD[/COLOR] - NOME </link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=COLAR AQUI$$lsname=[COLOR lime]FULLHD[/COLOR] - NOME </link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=COLAR AQUI$$lsname=[COLOR lime]FULLHD[/COLOR] - NOME </link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=COLAR AQUI$$lsname=[COLOR lime]FULLHD[/COLOR] - NOME </link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=COLAR AQUI$$lsname=[COLOR lime]FULLHD[/COLOR] - NOME </link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=COLAR AQUI$$lsname=[COLOR lime]FULLHD[/COLOR] - NOME </link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
+#EXTM3U
+#EXTINF:-1,iptvtools_21
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1,iptvtools_29
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1,iptvtools_36
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
+#EXTINF:-1,iptvtools_42
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+#EXTINF:-1,iptvtools_43
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+#EXTINF:-1,iptvtools_55
+http://www.djing.com/tv/04.m3u8
+#EXTINF:-1,iptvtools_63
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8

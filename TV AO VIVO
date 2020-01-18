@@ -1,3 +1,11 @@
+<channels>
+<channel>
+<name>CANAIS ABERTOS</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>
+
 <item>
 <tile>CANAIS ABERTOS</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=COLAR AQUI$$lsname=[COLOR lime]FULLHD[/COLOR] - NOME </link>

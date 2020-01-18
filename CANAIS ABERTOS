@@ -2,10 +2,10 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]CANAIS ABERTOS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia601505.us.archive.org/0/items/fanart_20200118/icon.png</thumbnail>
+<name>CANAIS ABERTOS</name>
+<thumbnail>https://ia801509.us.archive.org/34/items/icon_20200118_202001/icon.PNG</thumbnail>
 <externallink>https://raw.githubusercontent.com/perfectsagon/JCI.IPTV/master/TV%20AO%20VIVO</externallink>
-<fanart>https://ia601505.us.archive.org/0/items/fanart_20200118/fanart.jpg</fanart>
+<fanart>https://ia801509.us.archive.org/34/items/icon_20200118_202001/fanart.jpg</fanart>
 <info>
 
 
@@ -18,10 +18,10 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]CANAIS DE NOTICIAS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia601505.us.archive.org/0/items/fanart_20200118/icon.png</thumbnail>
+<name>CANAIS DE NOTICIAS</name>
+<thumbnail>https://ia801509.us.archive.org/34/items/icon_20200118_202001/icon.PNG</thumbnail>
 <externallink>https://raw.githubusercontent.com/perfectsagon/JCI.IPTV/master/NOTICIAS</externallink>
-<fanart>https://ia601505.us.archive.org/0/items/fanart_20200118/fanart.jpg</fanart>
+<fanart>https://ia801509.us.archive.org/34/items/icon_20200118_202001/fanart.jpg</fanart>
 <info>
 
 
@@ -34,10 +34,10 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]CANAIS DE ESPORTES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia601505.us.archive.org/0/items/fanart_20200118/icon.png</thumbnail>
+<name>CANAIS DE ESPORTES</name>
+<thumbnail>https://ia801509.us.archive.org/34/items/icon_20200118_202001/icon.PNG</thumbnail>
 <externallink>https://raw.githubusercontent.com/perfectsagon/JCI.IPTV/master/ESPORTES</externallink>
-<fanart>https://ia601505.us.archive.org/0/items/fanart_20200118/fanart.jpg</fanart>
+<fanart>https://ia801509.us.archive.org/34/items/icon_20200118_202001/fanart.jpg</fanart>
 <info>
 
 
@@ -50,10 +50,10 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]CANAIS DE FILMES E SERIES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia601505.us.archive.org/0/items/fanart_20200118/icon.png</thumbnail>
+<name>CANAIS DE FILMES E SERIES</name>
+<thumbnail>https://ia801509.us.archive.org/34/items/icon_20200118_202001/icon.PNG</thumbnail>
 <externallink>https://raw.githubusercontent.com/perfectsagon/JCI.IPTV/master/FILMES%20E%20SERIES</externallink>
-<fanart>https://ia601505.us.archive.org/0/items/fanart_20200118/fanart.jpg</fanart>
+<fanart>https://ia801509.us.archive.org/34/items/icon_20200118_202001/fanart.jpg</fanart>
 <info>
 
 
@@ -66,10 +66,10 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]CANAIS DE DOCUMENTARIOS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia601505.us.archive.org/0/items/fanart_20200118/icon.png</thumbnail>
+<name>CANAIS DE DOCUMENTARIOS</name>
+<thumbnail>https://ia801509.us.archive.org/34/items/icon_20200118_202001/icon.PNG</thumbnail>
 <externallink>https://raw.githubusercontent.com/perfectsagon/JCI.IPTV/master/DOCUMENTARIOS</externallink>
-<fanart>https://ia601505.us.archive.org/0/items/fanart_20200118/fanart.jpg</fanart>
+<fanart>https://ia801509.us.archive.org/34/items/icon_20200118_202001/fanart.jpg</fanart>
 <info>
 
 
@@ -81,10 +81,10 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]CANAIS INFANTIS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia601505.us.archive.org/0/items/fanart_20200118/icon.png</thumbnail>
+<name>CANAIS INFANTIS</name>
+<thumbnail>https://ia801509.us.archive.org/34/items/icon_20200118_202001/icon.PNG</thumbnail>
 <externallink>https://raw.githubusercontent.com/perfectsagon/JCI.IPTV/master/INFANTIL</externallink>
-<fanart>https://ia601505.us.archive.org/0/items/fanart_20200118/fanart.jpg</fanart>
+<fanart>https://ia801509.us.archive.org/34/items/icon_20200118_202001/fanart.jpg</fanart>
 <info>
 
 

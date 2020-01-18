@@ -2,11 +2,7 @@
 <channel>
 <name>CANAIS ABERTOS</name>
 <thumbnail></thumbnail>
-<externallink>https://</externallink>
-<fanart></fanart>
-<info>
-
-<item>
+<externallink>https:/<item>
 <tile>CANAIS ABERTOS</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=http://csrv.club:80/AngelaNascimento/angelajose/1931
 $$lsname=[COLOR lime]FULLHD[/COLOR] - SBT-SP </link>
@@ -23,4 +19,8 @@ $$lsname=[COLOR lime]FULLHD[/COLOR] - SBT-SP </link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
-</item>
+</item>/</externallink>
+<fanart></fanart>
+<info>
+
+

@@ -1,11 +1,1 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD+" tvg-logo="http://img.starbr.in/1559766167_3e61ab4fa75ec2fa11ff17bc6d1886097d031795.png" group-title="Canais Abertos",SBT HD+
-http://list.deeplist.nl:80/josealdo/josealdo123/38919
-#EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND SP HD" tvg-logo="http://img.starbr.in/1559753792_8a3ff5902c89337e88632304fd198dc92999c3ee.png" group-title="Canais Abertos",BAND SP HD
-http://list.deeplist.nl:80/josealdo/josealdo123/52595
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SP SD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SP SD+
-http://list.deeplist.nl:80/josealdo/josealdo123/22359
-#EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD SP HD" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD SP HD
-http://list.deeplist.nl:80/josealdo/josealdo123/1210
-#EXTINF:-1 tvg-id="REDE TV" tvg-name="REDE TV FULL HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559765918_384ff04a3316bd4769202aacf0d5f7f3f7e942f9.png" group-title="Canais Abertos",REDE TV FULL HD
-http://list.deeplist.nl:80/josealdo/josealdo123/52601
+

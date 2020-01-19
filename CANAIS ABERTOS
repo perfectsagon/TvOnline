@@ -18,7 +18,7 @@
 
 <channels>
 <channel>
-<name>CANAIS DE NOTICIAS</name>
+<name>NOTICIAS</name>
 <thumbnail>https://ia801509.us.archive.org/34/items/icon_20200118_202001/icon.PNG</thumbnail>
 <externallink>https://raw.githubusercontent.com/perfectsagon/JCI.IPTV/master/NOTICIAS</externallink>
 <fanart>https://ia801509.us.archive.org/34/items/icon_20200118_202001/fanart.jpg</fanart>
@@ -34,7 +34,7 @@
 
 <channels>
 <channel>
-<name>CANAIS DE ESPORTES</name>
+<name>ESPORTES</name>
 <thumbnail>https://ia801509.us.archive.org/34/items/icon_20200118_202001/icon.PNG</thumbnail>
 <externallink>https://raw.githubusercontent.com/perfectsagon/JCI.IPTV/master/ESPORTES</externallink>
 <fanart>https://ia801509.us.archive.org/34/items/icon_20200118_202001/fanart.jpg</fanart>
@@ -50,7 +50,7 @@
 
 <channels>
 <channel>
-<name>CANAIS DE FILMES E SERIES</name>
+<name>FILMES E SERIES</name>
 <thumbnail>https://ia801509.us.archive.org/34/items/icon_20200118_202001/icon.PNG</thumbnail>
 <externallink>https://raw.githubusercontent.com/perfectsagon/JCI.IPTV/master/FILMES%20E%20SERIES</externallink>
 <fanart>https://ia801509.us.archive.org/34/items/icon_20200118_202001/fanart.jpg</fanart>
@@ -66,7 +66,7 @@
 
 <channels>
 <channel>
-<name>CANAIS DE DOCUMENTARIOS</name>
+<name>DOCUMENTARIOS</name>
 <thumbnail>https://ia801509.us.archive.org/34/items/icon_20200118_202001/icon.PNG</thumbnail>
 <externallink>https://raw.githubusercontent.com/perfectsagon/JCI.IPTV/master/DOCUMENTARIOS</externallink>
 <fanart>https://ia801509.us.archive.org/34/items/icon_20200118_202001/fanart.jpg</fanart>
@@ -81,7 +81,7 @@
 
 <channels>
 <channel>
-<name>CANAIS INFANTIS</name>
+<name>INFANTIS</name>
 <thumbnail>https://ia801509.us.archive.org/34/items/icon_20200118_202001/icon.PNG</thumbnail>
 <externallink>https://raw.githubusercontent.com/perfectsagon/JCI.IPTV/master/INFANTIL</externallink>
 <fanart>https://ia801509.us.archive.org/34/items/icon_20200118_202001/fanart.jpg</fanart>

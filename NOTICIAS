@@ -1,1 +1,3 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id="CAT TVE" tvg-logo="https://i.imgur.com/VlHeBLa.png?1" group-title="Canais", CAT TVE
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8

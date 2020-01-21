@@ -1,11 +1,5 @@
 #EXTM3U
-
-
 EM CARTAZ 
-
-
-
-
 
 TV ABERTA 
 
@@ -65,8 +59,6 @@ http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
 
 #EXTINF:0tvg-logo="https://i.imgur.com/9Txygan.jpg " group-title="",AMAZON SAT
 http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
-
-
 
 
  ////////////  NOTÍCIAS \\\\\\\\

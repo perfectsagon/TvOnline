@@ -1,35 +1,257 @@
 #EXTM3U
-#EXTINF:-1,BRASIL - BAND SPORTS 
-http://ictv19.xyz:8000/barbacoa/barbacoa/32890
-#EXTINF:-1,BRASIL - DIARIO DO SERTAO SD
-http://ictv19.xyz:8000/barbacoa/barbacoa/10697
-#EXTINF:-1,BRASIL - E-PARANA SD
-http://ictv19.xyz:8000/barbacoa/barbacoa/10702
-#EXTINF:-1,BRASIL - GLOBO BRASILIA HD 
-http://ictv19.xyz:8000/barbacoa/barbacoa/32891
-#EXTINF:-1,BRASIL - GLOBO NEWS
-http://ictv19.xyz:8000/barbacoa/barbacoa/32892
-#EXTINF:-1,BRASIL - M2O SD 
-http://ictv19.xyz:8000/barbacoa/barbacoa/10703
-#EXTINF:-1,BRASIL - MN SD
-http://ictv19.xyz:8000/barbacoa/barbacoa/10718
-#EXTINF:-1,BRASIL - PARANA SD
-http://ictv19.xyz:8000/barbacoa/barbacoa/10685
-#EXTINF:-1,BRASIL - PUC TV  GOIAS SD
-http://ictv19.xyz:8000/barbacoa/barbacoa/10686
-#EXTINF:-1,BRASIL - REDE GOSPEL HD 
-http://ictv19.xyz:8000/barbacoa/barbacoa/5499
-#EXTINF:-1,BRASIL - REDE MINAS SD 
-http://ictv19.xyz:8000/barbacoa/barbacoa/5492
-#EXTINF:-1,BRASIL - SPORTV 2 HD
-http://ictv19.xyz:8000/barbacoa/barbacoa/29277
-#EXTINF:-1,BRASIL - SPORTV 3 HD
-http://ictv19.xyz:8000/barbacoa/barbacoa/29278
-#EXTINF:-1,BRASIL - SPORTV HD
-http://ictv19.xyz:8000/barbacoa/barbacoa/29276
-#EXTINF:-1,BRASIL - VIDEOMIX SD
-http://ictv19.xyz:8000/barbacoa/barbacoa/10699
-#EXTINF:-1,BRASIL - REDE ATIVIDADE HD 
-http://ictv19.xyz:8000/barbacoa/barbacoa/10688
-#EXTINF:-1,BRASIL - ALL SPORT SD 
-http://ictv19.xyz:8000/barbacoa/barbacoa/5498
+#EXTINF:-1,BR: GLOBO HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45724
+#EXTINF:-1,BR: GLOBO RJ HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45725
+#EXTINF:-1,BR: GLOBO SP HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45726
+#EXTINF:-1,BR: GLOBO MINAS HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45727
+#EXTINF:-1,BR: GLOBO NORDESTE HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45728
+#EXTINF:-1,BR: GLOBO RBS PORTO ALEGRE HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45729
+#EXTINF:-1,BR: GLOBO MANAUS HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45730
+#EXTINF:-1,BR: GLOBO TV GAZETA ES HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45731
+#EXTINF:-1,BR: GLOBO TV SERGIPE HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45732
+#EXTINF:-1,BR: RECORD HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45733
+#EXTINF:-1,BR: RECORD RJ HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45734
+#EXTINF:-1,BR: RECORD SP HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45735
+#EXTINF:-1,BR: RECORD BA HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45736
+#EXTINF:-1,BR: RECORD BAHIA HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45737
+#EXTINF:-1,BR: RECORD DF HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45738
+#EXTINF:-1,BR: RECORD GO HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45739
+#EXTINF:-1,BR: RECORD MG HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45740
+#EXTINF:-1,BR: RECORD RS HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45741
+#EXTINF:-1,BR: WOOHOO HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45742
+#EXTINF:-1,BR: VIVA HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45743
+#EXTINF:-1,BR: E! HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45744
+#EXTINF:-1,BR: EI PLUS HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45745
+#EXTINF:-1,BR: LIFETIME HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45746
+#EXTINF:-1,BR: FOOD NETWORK HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45747
+#EXTINF:-1,BR: GLOOB HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45748
+#EXTINF:-1,BR: GLOOBINHO HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45749
+#EXTINF:-1,BR: GNT HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45750
+#EXTINF:-1,BR: MAIS GLOBOSAT HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45751
+#EXTINF:-1,BR: CANAL BRASIL HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45752
+#EXTINF:-1,BR: NOVO TEMPO HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45753
+#EXTINF:-1,BR: REDE TV HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45754
+#EXTINF:-1,BR: SBT CIDADE VERDE HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45755
+#EXTINF:-1,BR: SBT HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45756
+#EXTINF:-1,BR: SBT TV JORNAL HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45757
+#EXTINF:-1,BR: GLOBO NEWS HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45759
+#EXTINF:-1,BR: RECORD NEWS HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45760
+#EXTINF:-1,BR: BAND NEWS HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45761
+#EXTINF:-1,BR: CBS NEWS HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45762
+#EXTINF:-1,BR: BABY HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45764
+#EXTINF:-1,BR: BOOMERANG HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45765
+#EXTINF:-1,BR: CARTOON NETWORK HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45766
+#EXTINF:-1,BR: DISNEY CHANNEL HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45767
+#EXTINF:-1,BR: DISNEY JR HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45768
+#EXTINF:-1,BR: DISNEY XD HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45769
+#EXTINF:-1,BR: NICK HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45770
+#EXTINF:-1,BR: NICK JR HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45771
+#EXTINF:-1,BR: NICKELODEON HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45772
+#EXTINF:-1,BR: TOONCAST HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45773
+#EXTINF:-1,BR: RA TIM BUM HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45774
+#EXTINF:-1,BR: FOX PREMIUM 1 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45776
+#EXTINF:-1,BR: FOX PREMIUM 2 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45777
+#EXTINF:-1,BR: HBO HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45778
+#EXTINF:-1,BR: HBO 2 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45779
+#EXTINF:-1,BR: HBO FAMILY HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45780
+#EXTINF:-1,BR: HBO PLUS HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45781
+#EXTINF:-1,BR: HBO SIGNATURE HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45782
+#EXTINF:-1,BR: MAX PRIME HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45783
+#EXTINF:-1,BR: PREMIERE CLUBES HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45784
+#EXTINF:-1,BR: PREMIERE 2 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45785
+#EXTINF:-1,BR: PREMIERE 3 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45786
+#EXTINF:-1,BR: PREMIERE 4 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45787
+#EXTINF:-1,BR: PREMIERE 5 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45788
+#EXTINF:-1,BR: PREMIERE 6 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45789
+#EXTINF:-1,BR: PREMIERE 7 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45790
+#EXTINF:-1,BR: TELECINE PREMIUM HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45791
+#EXTINF:-1,BR: TNT HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45792
+#EXTINF:-1,BR: TNT SERIES HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45793
+#EXTINF:-1,BR: TELECINE ACTION HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45794
+#EXTINF:-1,BR: TELECINE CULT HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45795
+#EXTINF:-1,BR: TELECINE FUN HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45796
+#EXTINF:-1,BR: TELECINE PIPOCA HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45797
+#EXTINF:-1,BR: TELECINE TOUCH HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45798
+#EXTINF:-1,BR: WARNER CHANNEL HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45799
+#EXTINF:-1,BR: AMC HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45800
+#EXTINF:-1,BR: ARTE 1 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45801
+#EXTINF:-1,BR: AXN HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45802
+#EXTINF:-1,BR: BAND CAMPINAS HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45803
+#EXTINF:-1,BR: BAND HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45804
+#EXTINF:-1,BR: BAND SPORT HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45805
+#EXTINF:-1,BR: CINEMAX HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45806
+#EXTINF:-1,BR: COMEDY CENTRAL HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45807
+#EXTINF:-1,BR: FOX HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45808
+#EXTINF:-1,BR: FOX LIFE HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45809
+#EXTINF:-1,BR: FX HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45810
+#EXTINF:-1,BR: MAX HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45811
+#EXTINF:-1,BR: MAX UP HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45812
+#EXTINF:-1,BR: MEGAPIX HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45813
+#EXTINF:-1,BR: MLB HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45814
+#EXTINF:-1,BR: MULTISHOW HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45815
+#EXTINF:-1,BR: OFF HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45816
+#EXTINF:-1,BR: PARAMOUNT HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45817
+#EXTINF:-1,BR: SONY CHANNEL HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45818
+#EXTINF:-1,BR: SPACE HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45819
+#EXTINF:-1,BR: STUDIO UNIVERSAL HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45820
+#EXTINF:-1,BR: SYFY HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45821
+#EXTINF:-1,BR: TBS HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45822
+#EXTINF:-1,BR: TCM HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45823
+#EXTINF:-1,BR: TLC HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45824
+#EXTINF:-1,BR: UNIVERSAL HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45825
+#EXTINF:-1,BR: ZOOMOO HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45826
+#EXTINF:-1,BR: SPORTV HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45828
+#EXTINF:-1,BR: SPORTV 2 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45829
+#EXTINF:-1,BR: SPORTV 3 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45830
+#EXTINF:-1,BR: FOX SPORTS HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45831
+#EXTINF:-1,BR: FOX SPORTS 2 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45832
+#EXTINF:-1,BR: ESPN HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45833
+#EXTINF:-1,BR: ESPN EXTRA HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45834
+#EXTINF:-1,BR: ESPN 2 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45835
+#EXTINF:-1,BR: ESPN BRASIL HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45836
+#EXTINF:-1,BR: COMBATE HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45837
+#EXTINF:-1,BR: EPTV RIBEIRAO PRETO HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45838
+#EXTINF:-1,BR: BIS HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45840
+#EXTINF:-1,BR: MTV HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45841
+#EXTINF:-1,BR: ANIMAL PLANET HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45843
+#EXTINF:-1,BR: DISCOVERY HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45844
+#EXTINF:-1,BR: DISCOVERY CIVILIZATION HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45845
+#EXTINF:-1,BR: DISCOVERY H&H HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45846
+#EXTINF:-1,BR: DISCOVERY KIDS HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45847
+#EXTINF:-1,BR: DISCOVERY SCIENCE HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45848
+#EXTINF:-1,BR: DISCOVERY THEATER HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45849
+#EXTINF:-1,BR: DISCOVERY TURBO HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45850
+#EXTINF:-1,BR: DISCOVERY WORLD HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45851
+#EXTINF:-1,BR: HISTORY HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45852
+#EXTINF:-1,BR: H2 HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45853
+#EXTINF:-1,BR: ID DISCOVERY HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45854
+#EXTINF:-1,BR: NAT GEO HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45855
+#EXTINF:-1,BR: NAT GEO KIDS HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45856
+#EXTINF:-1,BR: NAT GEO WILD HD
+http://www.sansat.net:25461/jack0621m11/VRkdB0piwL/45857

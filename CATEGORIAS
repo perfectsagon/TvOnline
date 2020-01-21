@@ -4,42 +4,12 @@
 <channel>
 <name>TV AO VIVO</name>
 <thumbnail>https://ia801509.us.archive.org/34/items/icon_20200118_202001/icon.PNG</thumbnail>
-<externallink>https://raw.githubusercontent.com/perfectsagon/JCI.IPTV/master/CANAIS%20ABERTOS</externallink>
+<externallink>https://raw.githubusercontent.com/perfectsagon/JCI.IPTV/master/TV</externallink>
 <fanart>https://ia801509.us.archive.org/34/items/icon_20200118_202001/fanart.jpg</fanart>
 <info>
 
 
 [COLOR deeppink]|[/COLOR] - ASSISTA SEUS CANAIS FAVORITOS - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>FILMES</name>
-<thumbnail>https://ia801509.us.archive.org/34/items/icon_20200118_202001/icon.PNG</thumbnail>
-<externallink>https://raw.githubusercontent.com/perfectsagon/JCI.IPTV/master/FILMES</externallink>
-<fanart>https://ia801509.us.archive.org/34/items/icon_20200118_202001/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - CURTA OS MELHORES FILMES  - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
-<name>SERIES</name>
-<thumbnail>https://ia801509.us.archive.org/34/items/icon_20200118_202001/icon.PNG</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://ia801509.us.archive.org/34/items/icon_20200118_202001/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES  - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 

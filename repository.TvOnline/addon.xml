@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.TvOnline" name="repository.TvOnline" version="1.0" provider-name="Perfectsagon">
+    <extension point="xbmc.addon.repository" name="repository.TvOnline">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/perfectsagon/TvOnline/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/perfectsagon/TvOnline/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/perfectsagon/TvOnline/master/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>repository.TvOnline</summary>
+        <description>RESUMO DE SEU REPO AQUI</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>

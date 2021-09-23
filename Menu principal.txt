@@ -1,7 +1,7 @@
 <channels>
 
 <channel>
-<name>[B][COLOR white]TV[/COLOR][/B]</name>
+<name>[B][COLOR white]TV AO VIVO[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL/ICON QUE FICA DO LADO</thumbnail>
 <externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
@@ -25,14 +25,3 @@
 </channel>
 
 </channels>
-
-
-
-
-
-
-
-Codigos que pode ser útil:
-[B] texto [/B] -> Para deixar o texto em negrito 
-
-[COLOR blue] texto [/COLOR] -> Para deixar o texto com cor diferente, obs: cor deve estar em ingles e minusculo como o "blue" 

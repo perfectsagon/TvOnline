@@ -1,6 +1,6 @@
 <item>
 <title>[B]DISCOVERY CHANNEL FULL HD[/B]</title>
-<link>http://login.companyiptv.com.br:8080/live/admin/69ra2cx4/46339.m3u8</link>
+<link>http://login.companyiptv.com.br/get.php?username=admin&password=69ra2cx4&type=m3u_plus&output=m3u8</link>
 <thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
 <fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
 <info>INFO DOS CANAIS.</info>

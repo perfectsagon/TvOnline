@@ -1,1 +1,3 @@
-<link>http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46347.m3u8</link>
+#EXTM3U
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="DISCOVERY TLC HD" tvg-logo="http://srv.painel.live:8080/images/e4dadea6c97c24f43423ea1518cc3891.png" group-title="DOCUMENTARIOS",DISCOVERY TLC HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46347.m3u8

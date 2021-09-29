@@ -1,3 +1,1273 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="24h01.br" tvg-name="24H NEWS HD" tvg-logo="http://srv.painel.live:8080/images/05263feebe23a5757f84ba44a528aaf7.png" group-title="NOTICIAS",24H NEWS HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116747.m3u8
+#EXTINF:-1 tvg-id="24h01.br" tvg-name="24HS - DOUG" tvg-logo="http://srv.painel.live:8080/images/1f05d4989eab128e4b47266086abb832.png" group-title="24 HORAS DESENHOS ",24HS - DOUG
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/118683.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA HD" tvg-logo="http://srv.painel.live:8080/images/72d7f1b3fa631996c876807fb7b80b9c.png" group-title="A FAZENDA",A FAZENDA HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/118575.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA FULLHD" tvg-logo="http://srv.painel.live:8080/images/72d7f1b3fa631996c876807fb7b80b9c.png" group-title="A FAZENDA",A FAZENDA FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/118576.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD" tvg-logo="http://srv.painel.live:8080/images/c3df0333647b7c2646f7dd8c238871c0.png" group-title="FILMES & SERIES",A&E HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46294.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FULLHD" tvg-logo="http://srv.painel.live:8080/images/c3df0333647b7c2646f7dd8c238871c0.png" group-title="FILMES & SERIES",A&E FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46557.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AGRO BRASIL HD" tvg-logo="http://srv.painel.live/logo/agrobrasiltv.png" group-title="ABERTOS",AGRO BRASIL HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/115456.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="AGRO CANAL FULLHD" tvg-logo="http://logo.painel.live/agrocanal.png" group-title="ABERTOS",AGRO CANAL FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/89947.m3u8
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="http://srv.painel.live:8080/images/5b481c2df78b8c9171b134399c15e754.png" group-title="FILMES & SERIES",AMC HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46296.m3u8
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FULLHD" tvg-logo="http://srv.painel.live:8080/images/5b481c2df78b8c9171b134399c15e754.png" group-title="FILMES & SERIES",AMC FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46558.m3u8
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://srv.painel.live:8080/images/61568fff8ad03cf5f22b891fcae4679f.png" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46337.m3u8
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET FULLHD" tvg-logo="http://srv.painel.live:8080/images/61568fff8ad03cf5f22b891fcae4679f.png" group-title="DOCUMENTARIOS",ANIMAL PLANET FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46559.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANIME TV HD" tvg-logo="https://srv.painel.live/logo/Anime-TV-mod-APK-Baixar-para-Android.png" group-title="INFANTIS",ANIME TV HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109830.m3u8
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="Arte 1" tvg-logo="http://srv.painel.live:8080/images/6bc69aee7c96829f67160c118b2d15f3.png" group-title="VARIEDADES",Arte 1
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/117036.m3u8
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 HD" tvg-logo="http://srv.painel.live:8080/images/6bc69aee7c96829f67160c118b2d15f3.png" group-title="VARIEDADES",ARTE 1 HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46457.m3u8
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 FULLHD" tvg-logo="http://srv.painel.live:8080/images/6bc69aee7c96829f67160c118b2d15f3.png" group-title="VARIEDADES",ARTE 1 FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46560.m3u8
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="http://srv.painel.live:8080/images/db2c6c08c39ef2543ba43a44165738da.png" group-title="FILMES & SERIES",AXN HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46298.m3u8
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FULLHD" tvg-logo="http://srv.painel.live:8080/images/db2c6c08c39ef2543ba43a44165738da.png" group-title="FILMES & SERIES",AXN FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46561.m3u8
+#EXTINF:-1 tvg-id="baby.br" tvg-name="BABY TV " tvg-logo="http://logo.painel.live/Baby_TV.png" group-title="INFANTIS",BABY TV 
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/115435.m3u8
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS HD" tvg-logo="http://srv.painel.live:8080/images/b22838cf433fbbc3efca08778eb2e698.png" group-title="NOTICIAS",BAND NEWS HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46507.m3u8
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS FULLHD" tvg-logo="http://srv.painel.live:8080/images/b22838cf433fbbc3efca08778eb2e698.png" group-title="NOTICIAS",BAND NEWS FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46562.m3u8
+#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND SP HD" tvg-logo="http://srv.painel.live:8080/images/ee1789a3b65fc1deba0d3b97de820e83.png" group-title="ABERTOS",BAND SP HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46425.m3u8
+#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND SP FULLHD" tvg-logo="http://srv.painel.live:8080/images/ee1789a3b65fc1deba0d3b97de820e83.png" group-title="ABERTOS",BAND SP FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46563.m3u8
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="http://srv.painel.live:8080/images/832b539f1801e22455ecaeccb55dabd6.png" group-title="ESPORTE",BAND SPORTS HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46394.m3u8
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS FULLHD" tvg-logo="http://srv.painel.live:8080/images/832b539f1801e22455ecaeccb55dabd6.png" group-title="ESPORTE",BAND SPORTS FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46564.m3u8
+#EXTINF:-1 tvg-id="bbc.news.br" tvg-name="BBC NEWS FULLHD" tvg-logo="http://srv.painel.live:8080/images/fd3256c55e0434fe8dc9e64889c54ed7.png" group-title="NOTICIAS",BBC NEWS FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116430.m3u8
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD" tvg-logo="http://srv.painel.live:8080/images/b1497754a139a89740ccb77d67734c87.png" group-title="VARIEDADES",BIS HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46459.m3u8
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS FULLHD" tvg-logo="http://srv.painel.live:8080/images/b1497754a139a89740ccb77d67734c87.png" group-title="VARIEDADES",BIS FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/75772.m3u8
+#EXTINF:-1 tvg-id="bloomberg.br" tvg-name="BLOOMBERG TV FULLHD" tvg-logo="http://srv.painel.live:8080/images/06a363d39d5f9436c5349783e85244b2.png" group-title="INTERNACIONAIS",BLOOMBERG TV FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104179.m3u8
+#EXTINF:-1 tvg-id="boa.vontade.br" tvg-name="BOA VONTADE" tvg-logo="http://srv.painel.live:8080/images/3aafaae7c5fcec066b361d8ec7ab1337.png" group-title="ABERTOS",BOA VONTADE
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/117037.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BONS TEMPO TV" tvg-logo="http://logo.painel.live/bonstempos.png" group-title="VARIEDADES",BONS TEMPO TV
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109893.m3u8
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BOOMERANG HD" tvg-logo="http://srv.painel.live:8080/images/c1ab92858d19a0e71a0c66d000ac07ff.png" group-title="INFANTIS",BOOMERANG HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46365.m3u8
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BOOMERANG FULLHD" tvg-logo="http://srv.painel.live:8080/images/c1ab92858d19a0e71a0c66d000ac07ff.png" group-title="INFANTIS",BOOMERANG FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46565.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BORA FILMES HD" tvg-logo="http://logo.painel.live/2wwjoHt.png" group-title="FILMES & SERIES",BORA FILMES HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116753.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 1 HD" tvg-logo="http://srv.painel.live:8080/images/7d702445638521bd465663e0de5ade79.png" group-title="ESTADUAIS",CAMPEONATO CARIOCA 1 HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/105658.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 2 HD" tvg-logo="http://srv.painel.live:8080/images/7d702445638521bd465663e0de5ade79.png" group-title="ESTADUAIS",CAMPEONATO CARIOCA 2 HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/105659.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 3 HD" tvg-logo="http://srv.painel.live:8080/images/7d702445638521bd465663e0de5ade79.png" group-title="ESTADUAIS",CAMPEONATO CARIOCA 3 HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/106102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA 4 HD" tvg-logo="http://srv.painel.live:8080/images/7d702445638521bd465663e0de5ade79.png" group-title="ESTADUAIS",CAMPEONATO CARIOCA 4 HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/106103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE 1" tvg-logo="http://srv.painel.live:8080/images/e28853ad492b3ccedf71fe6130cc6e93.png" group-title="ESTADUAIS",CAMPEONATO CATARINENSE 1
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/106099.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE 2" tvg-logo="http://srv.painel.live:8080/images/e28853ad492b3ccedf71fe6130cc6e93.png" group-title="ESTADUAIS",CAMPEONATO CATARINENSE 2
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/106100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CATARINENSE 3" tvg-logo="http://srv.painel.live:8080/images/e28853ad492b3ccedf71fe6130cc6e93.png" group-title="ESTADUAIS",CAMPEONATO CATARINENSE 3
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/106101.m3u8
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="http://srv.painel.live:8080/images/8f1d2f9c47b6278de2dd2fe6979596db.png" group-title="VARIEDADES",CANAL BRASIL HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/47073.m3u8
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL FULLHD" tvg-logo="http://srv.painel.live:8080/images/8f1d2f9c47b6278de2dd2fe6979596db.png" group-title="VARIEDADES",CANAL BRASIL FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/47072.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="CANAL DO BOI FULLHD" tvg-logo="http://srv.painel.live:8080/images/62cb19c8de3b1ae6482f3e8bacdf9a59.png" group-title="ABERTOS",CANAL DO BOI FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/100714.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL LIFE CHANNEL HD" tvg-logo="http://srv.painel.live:8080/images/29936dd8c393b0ea07eedc2c510ec81b.jpg" group-title="VARIEDADES",CANAL LIFE CHANNEL HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/117050.m3u8
+#EXTINF:-1 tvg-id="canal.rural.br" tvg-name="CANAL RURAL " tvg-logo="http://logo.painel.live/CANALRURAL.png" group-title="VARIEDADES",CANAL RURAL 
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/115436.m3u8
+#EXTINF:-1 tvg-id="sony.br" tvg-name="CANAL SONY HD" tvg-logo="http://logo.painel.live/sony.png" group-title="FILMES & SERIES",CANAL SONY HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46300.m3u8
+#EXTINF:-1 tvg-id="sony.br" tvg-name="CANAL SONY FULLHD" tvg-logo="http://logo.painel.live/sony.png" group-title="FILMES & SERIES",CANAL SONY FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46566.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL TVCOM BRASIL HD" tvg-logo="http://srv.painel.live:8080/images/7ab1dd818b074f8ea5f1d2f72bfe52d7.png" group-title="VARIEDADES",CANAL TVCOM BRASIL HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/117051.m3u8
+#EXTINF:-1 tvg-id="cancao.nova.br" tvg-name="CANÇÃO NOVA FULLHD" tvg-logo="http://logo.painel.live/cancaonova.png" group-title="RELIGIOSOS",CANÇÃO NOVA FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46696.m3u8
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK HD" tvg-logo="http://srv.painel.live:8080/images/4f6b1058ee90074ea8c02877d6967f29.png" group-title="INFANTIS",CARTOON NETWORK HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46367.m3u8
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK FULLHD" tvg-logo="http://srv.painel.live:8080/images/4f6b1058ee90074ea8c02877d6967f29.png" group-title="INFANTIS",CARTOON NETWORK FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46567.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBN NEWS FULLHD" tvg-logo="https://mma.prnewswire.com/media/752622/CBN_News_Channel_Logo.jpg?p=publish" group-title="INTERNACIONAIS",CBN NEWS FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104243.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGNT" tvg-logo="http://srv.painel.live:8080/images/1d2aa790917e5e6b460642f7aa22fa48.png" group-title="INTERNACIONAIS",CGNT
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/117038.m3u8
+#EXTINF:-1 tvg-id="chef.br" tvg-name="CHEFE TV HD" tvg-logo="http://logo.painel.live/chefftv.png" group-title="VARIEDADES",CHEFE TV HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/103611.m3u8
+#EXTINF:-1 tvg-id="chef.br" tvg-name="CHEFE TV FULLHD" tvg-logo="http://logo.painel.live/chefftv.png" group-title="VARIEDADES",CHEFE TV FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/103609.m3u8
+#EXTINF:-1 tvg-id="cine.brasil.br" tvg-name="CINE BRASIL TV HD" tvg-logo="http://logo.painel.live/cineb.png" group-title="FILMES & SERIES",CINE BRASIL TV HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104161.m3u8
+#EXTINF:-1 tvg-id="cine.brasil.br" tvg-name="CINE BRASIL TV FULLHD" tvg-logo="http://logo.painel.live/cineb.png" group-title="FILMES & SERIES",CINE BRASIL TV FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/115437.m3u8
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-logo="http://srv.painel.live:8080/images/1edebc3690f9495c1f876c0e40790357.png" group-title="FILMES & SERIES",CINEMAX HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46302.m3u8
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX FULLHD" tvg-logo="http://srv.painel.live:8080/images/1edebc3690f9495c1f876c0e40790357.png" group-title="FILMES & SERIES",CINEMAX FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46568.m3u8
+#EXTINF:-1 tvg-id="rbi.br" tvg-name="CLASSIQUE WESTERN TV" tvg-logo="http://logo.painel.live/CLASSIQUE-TV.png" group-title="FILMES & SERIES",CLASSIQUE WESTERN TV
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109810.m3u8
+#EXTINF:-1 tvg-id="tv.climatempo.br" tvg-name="CLIMA TEMPO HD" tvg-logo="http://srv.painel.live:8080/images/60ff242665e00657cc2f40b98bf491c1.png" group-title="ABERTOS",CLIMA TEMPO HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/103632.m3u8
+#EXTINF:-1 tvg-id="tv.climatempo.br" tvg-name="CLIMA TEMPO FULLHD" tvg-logo="http://srv.painel.live:8080/images/60ff242665e00657cc2f40b98bf491c1.png" group-title="ABERTOS",CLIMA TEMPO FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/103633.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CLUBINHO FUN HD" tvg-logo="http://logo.painel.live/BUrmGpI.png" group-title="INFANTIS",CLUBINHO FUN HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116748.m3u8
+#EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN BRASIL HD" tvg-logo="http://srv.painel.live:8080/images/dfe61c8313eeb7292c998fe4eb2c813b.png" group-title="NOTICIAS",CNN BRASIL HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46509.m3u8
+#EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN BRASIL FULLHD" tvg-logo="http://srv.painel.live:8080/images/dfe61c8313eeb7292c998fe4eb2c813b.png" group-title="NOTICIAS",CNN BRASIL FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104782.m3u8
+#EXTINF:-1 tvg-id="cnn.international.br" tvg-name="CNN INTERNACIONAL HD" tvg-logo="http://srv.painel.live:8080/images/e55b177f8f844a1a8526a9dfc364f7da.png" group-title="NOTICIAS",CNN INTERNACIONAL HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/115454.m3u8
+#EXTINF:-1 tvg-id="cnt.br" tvg-name="CNT HD" tvg-logo="http://srv.painel.live/logo/cnt.png" group-title="RELIGIOSOS",CNT HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/115455.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COM BRASIL HD" tvg-logo="https://i.imgur.com/gdCKme3.png" group-title="ABERTOS",COM BRASIL HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116758.m3u8
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD" tvg-logo="http://srv.painel.live:8080/images/41b1f98d952ee0e2bfc79044a8e954e0.png" group-title="ESPORTE",COMBATE HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46396.m3u8
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE FULLHD" tvg-logo="http://srv.painel.live:8080/images/41b1f98d952ee0e2bfc79044a8e954e0.png" group-title="ESPORTE",COMBATE FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46569.m3u8
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://srv.painel.live:8080/images/f37cafb8f75faa79eb295db4c6add38a.png" group-title="VARIEDADES",COMEDY CENTRAL HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46369.m3u8
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL FULLHD" tvg-logo="http://srv.painel.live:8080/images/f37cafb8f75faa79eb295db4c6add38a.png" group-title="VARIEDADES",COMEDY CENTRAL FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46570.m3u8
+#EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="CONMEBOL - LIBERTADORES 1" tvg-logo="http://srv.painel.live:8080/images/9f2dfba37acf0b706adbd77e28080f74.png" group-title="CONMEBOL TV",CONMEBOL - LIBERTADORES 1
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116718.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL - LIBERTADORES 1 HD" tvg-logo="http://srv.painel.live:8080/images/9f2dfba37acf0b706adbd77e28080f74.png" group-title="CONMEBOL TV",CONMEBOL - LIBERTADORES 1 HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/115355.m3u8
+#EXTINF:-1 tvg-id="conmebol.1.br" tvg-name="CONMEBOL - LIBERTADORES 1 FULLHD" tvg-logo="http://srv.painel.live:8080/images/9f2dfba37acf0b706adbd77e28080f74.png" group-title="CONMEBOL TV",CONMEBOL - LIBERTADORES 1 FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/75768.m3u8
+#EXTINF:-1 tvg-id="conmebol.2.br" tvg-name="CONMEBOL - LIBERTADORES 2" tvg-logo="http://srv.painel.live:8080/images/9f2dfba37acf0b706adbd77e28080f74.png" group-title="CONMEBOL TV",CONMEBOL - LIBERTADORES 2
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116719.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL - LIBERTADORES 2 HD" tvg-logo="http://srv.painel.live:8080/images/9f2dfba37acf0b706adbd77e28080f74.png" group-title="CONMEBOL TV",CONMEBOL - LIBERTADORES 2 HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/115352.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL - LIBERTADORES 2 FULLHD" tvg-logo="http://srv.painel.live:8080/images/9f2dfba37acf0b706adbd77e28080f74.png" group-title="CONMEBOL TV",CONMEBOL - LIBERTADORES 2 FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/75770.m3u8
+#EXTINF:-1 tvg-id="conmebol.3.br" tvg-name="CONMEBOL - LIBERTADORES 3" tvg-logo="http://srv.painel.live:8080/images/9f2dfba37acf0b706adbd77e28080f74.png" group-title="CONMEBOL TV",CONMEBOL - LIBERTADORES 3
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL - LIBERTADORES 3 HD" tvg-logo="http://srv.painel.live:8080/images/9f2dfba37acf0b706adbd77e28080f74.png" group-title="CONMEBOL TV",CONMEBOL - LIBERTADORES 3 HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/115353.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL - LIBERTADORES 3 FULLHD" tvg-logo="http://srv.painel.live:8080/images/9f2dfba37acf0b706adbd77e28080f74.png" group-title="CONMEBOL TV",CONMEBOL - LIBERTADORES 3 FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/110011.m3u8
+#EXTINF:-1 tvg-id="conmebol.4.br" tvg-name="CONMEBOL - LIBERTADORES 4" tvg-logo="http://srv.painel.live:8080/images/9f2dfba37acf0b706adbd77e28080f74.png" group-title="CONMEBOL TV",CONMEBOL - LIBERTADORES 4
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116721.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL - LIBERTADORES 4 HD" tvg-logo="http://srv.painel.live:8080/images/9f2dfba37acf0b706adbd77e28080f74.png" group-title="CONMEBOL TV",CONMEBOL - LIBERTADORES 4 HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/115354.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL - LIBERTADORES 4 FULLHD" tvg-logo="http://srv.painel.live:8080/images/9f2dfba37acf0b706adbd77e28080f74.png" group-title="CONMEBOL TV",CONMEBOL - LIBERTADORES 4 FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/110010.m3u8
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="CULTURA" tvg-logo="http://srv.painel.live:8080/images/6f2fb955ec7207ba432c5184a79ee0d2.png" group-title="ABERTOS",CULTURA
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/117045.m3u8
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="CULTURA FULLHD" tvg-logo="http://srv.painel.live:8080/images/6f2fb955ec7207ba432c5184a79ee0d2.png" group-title="ABERTOS",CULTURA FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/89980.m3u8
+#EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA!" tvg-logo="http://srv.painel.live:8080/images/399cf7bcbb3c17fd8802c9125c88665e.png" group-title="DOCUMENTARIOS",CURTA!
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/117039.m3u8
+#EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA!  HD" tvg-logo="http://srv.painel.live:8080/images/399cf7bcbb3c17fd8802c9125c88665e.png" group-title="DOCUMENTARIOS",CURTA!  HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/103630.m3u8
+#EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA! FULLHD" tvg-logo="http://srv.painel.live:8080/images/399cf7bcbb3c17fd8802c9125c88665e.png" group-title="DOCUMENTARIOS",CURTA! FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/103631.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="https://3.bp.blogspot.com/-bbXB6vnMYlo/XIqyNNsVZ7I/AAAAAAAAC9E/ybOef06_FRk-XXKwGrkmvOyFxQ23XMu2gCLcBGAs/s1600/dazn.png" group-title="ESPORTE",DAZN 1
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46402.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="https://3.bp.blogspot.com/-bbXB6vnMYlo/XIqyNNsVZ7I/AAAAAAAAC9E/ybOef06_FRk-XXKwGrkmvOyFxQ23XMu2gCLcBGAs/s1600/dazn.png" group-title="ESPORTE",DAZN 2
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46403.m3u8
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://srv.painel.live:8080/images/32673deb9cf020c462bd96ff7fed0900.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46339.m3u8
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL FULLHD" tvg-logo="http://srv.painel.live:8080/images/32673deb9cf020c462bd96ff7fed0900.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46773.m3u8
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H HD" tvg-logo="http://srv.painel.live:8080/images/44e304c6da68e4f4377deaf27728e8f6.png" group-title="DOCUMENTARIOS",DISCOVERY H&H HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46341.m3u8
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H FULLHD" tvg-logo="http://srv.painel.live:8080/images/44e304c6da68e4f4377deaf27728e8f6.png" group-title="DOCUMENTARIOS",DISCOVERY H&H FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46571.m3u8
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://srv.painel.live:8080/images/f612619814caf0ac4ea35e3f73c642b1.png" group-title="INFANTIS",DISCOVERY KIDS HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46371.m3u8
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="DISCOVERY KIDS FULLHD" tvg-logo="http://srv.painel.live:8080/images/f612619814caf0ac4ea35e3f73c642b1.png" group-title="INFANTIS",DISCOVERY KIDS FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46572.m3u8
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="DISCOVERY SCENCE HD" tvg-logo="http://srv.painel.live:8080/images/128b45fd117cf78fc78ccb2028571ffe.png" group-title="DOCUMENTARIOS",DISCOVERY SCENCE HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46343.m3u8
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="DISCOVERY SCIENCE FULLHD" tvg-logo="http://srv.painel.live:8080/images/128b45fd117cf78fc78ccb2028571ffe.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46573.m3u8
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://srv.painel.live:8080/images/3f2ae203f949b4e7da54ccea5bc4947a.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46345.m3u8
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="DISCOVERY THEATER FULLHD" tvg-logo="http://srv.painel.live:8080/images/3f2ae203f949b4e7da54ccea5bc4947a.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46574.m3u8
 #EXTINF:-1 tvg-id="tlc.br" tvg-name="DISCOVERY TLC HD" tvg-logo="http://srv.painel.live:8080/images/e4dadea6c97c24f43423ea1518cc3891.png" group-title="DOCUMENTARIOS",DISCOVERY TLC HD
 http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46347.m3u8
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="DISCOVERY TLC FULLHD" tvg-logo="http://srv.painel.live:8080/images/e4dadea6c97c24f43423ea1518cc3891.png" group-title="DOCUMENTARIOS",DISCOVERY TLC FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46575.m3u8
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://srv.painel.live:8080/images/367f14e8565fd9a5559d4b1c5c8a788a.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46349.m3u8
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO FULLHD" tvg-logo="http://srv.painel.live:8080/images/367f14e8565fd9a5559d4b1c5c8a788a.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46576.m3u8
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://srv.painel.live:8080/images/f10647d08e3b6f962cf206383e2c0cf3.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46351.m3u8
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="DISCOVERY WORLD FULLHD" tvg-logo="http://srv.painel.live:8080/images/f10647d08e3b6f962cf206383e2c0cf3.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46577.m3u8
+#EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://srv.painel.live:8080/images/e24d13d98a854256fe724e51fdd9bf62.png" group-title="INFANTIS",DISNEY CHANNEL HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46373.m3u8
+#EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL FULLHD" tvg-logo="http://srv.painel.live:8080/images/e24d13d98a854256fe724e51fdd9bf62.png" group-title="INFANTIS",DISNEY CHANNEL FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46578.m3u8
+#EXTINF:-1 tvg-id="disney.junior.br" tvg-name="DISNEY JUNIOR HD" tvg-logo="http://srv.painel.live:8080/images/f46326e6adca15a16f6317f61ef296a2.png" group-title="INFANTIS",DISNEY JUNIOR HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46375.m3u8
+#EXTINF:-1 tvg-id="disney.junior.br" tvg-name="DISNEY JUNIOR FULLHD" tvg-logo="http://srv.painel.live:8080/images/f46326e6adca15a16f6317f61ef296a2.png" group-title="INFANTIS",DISNEY JUNIOR FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46579.m3u8
+#EXTINF:-1 tvg-id="disney.xd.br" tvg-name="DISNEY XD" tvg-logo="http://srv.painel.live:8080/images/a83dec3009a0b0ba1e484864eddbd654.png" group-title="INFANTIS",DISNEY XD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/117040.m3u8
+#EXTINF:-1 tvg-id="disney.xd.br" tvg-name="DISNEY XD HD" tvg-logo="http://logo.painel.live/disneyxd.png" group-title="INFANTIS",DISNEY XD HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46377.m3u8
+#EXTINF:-1 tvg-id="disney.xd.br" tvg-name="DISNEY XD FULLHD" tvg-logo="http://logo.painel.live/disneyxd.png" group-title="INFANTIS",DISNEY XD FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/90027.m3u8
+#EXTINF:-1 tvg-id="dogtv.br" tvg-name="DOG TV HD" tvg-logo="http://srv.painel.live:8080/images/386c57017f4658ca5215569643f0189d.png" group-title="VARIEDADES",DOG TV HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/80701.m3u8
+#EXTINF:-1 tvg-id="dogtv.br" tvg-name="DOG TV FULLHD" tvg-logo="http://srv.painel.live:8080/images/386c57017f4658ca5215569643f0189d.png" group-title="VARIEDADES",DOG TV FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/80700.m3u8
+#EXTINF:-1 tvg-id="e.br" tvg-name="E!" tvg-logo="http://srv.painel.live:8080/images/2cdb9dc38d91b1b6dbd2152d9ce8a834.png" group-title="VARIEDADES",E!
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/117041.m3u8
+#EXTINF:-1 tvg-id="e.br" tvg-name="E! HD" tvg-logo="http://srv.painel.live:8080/images/2cdb9dc38d91b1b6dbd2152d9ce8a834.png" group-title="VARIEDADES",E! HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109840.m3u8
+#EXTINF:-1 tvg-id="e.br" tvg-name="E! FULLHD" tvg-logo="http://srv.painel.live:8080/images/2cdb9dc38d91b1b6dbd2152d9ce8a834.png" group-title="VARIEDADES",E! FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46468.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENDO HD" tvg-logo="http://logo.painel.live/KRufjqn.png" group-title="FILMES & SERIES",ENTRETENDO HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116752.m3u8
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 HD" tvg-logo="http://srv.painel.live:8080/images/8d67e5a5a2882ad34ac0d3a7ba23c7bc.png" group-title="ESPORTE",ESPN 2 HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116302.m3u8
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 FULLHD" tvg-logo="http://srv.painel.live:8080/images/8d67e5a5a2882ad34ac0d3a7ba23c7bc.png" group-title="ESPORTE",ESPN 2 FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116303.m3u8
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN BRASIL HD" tvg-logo="http://srv.painel.live:8080/images/35f6e54abfb3fb5216c4befeb4463062.png" group-title="ESPORTE",ESPN BRASIL HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116301.m3u8
+#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN BRASIL FULLHD" tvg-logo="http://srv.painel.live:8080/images/35f6e54abfb3fb5216c4befeb4463062.png" group-title="ESPORTE",ESPN BRASIL FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116304.m3u8
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA HD" tvg-logo="http://srv.painel.live:8080/images/56cd6719ba7525347062c8e14c46a80d.png" group-title="ESPORTE",ESPN EXTRA HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46408.m3u8
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA FULLHD" tvg-logo="http://srv.painel.live:8080/images/56cd6719ba7525347062c8e14c46a80d.png" group-title="ESPORTE",ESPN EXTRA FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/47074.m3u8
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="http://srv.painel.live:8080/images/f01106e8f8dd0b85d6288ccac6e83f24.png" group-title="ESPORTE",ESPN HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116298.m3u8
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN FULLHD" tvg-logo="http://srv.painel.live:8080/images/f01106e8f8dd0b85d6288ccac6e83f24.png" group-title="ESPORTE",ESPN FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116299.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESR HD" tvg-logo="http://srv.painel.live:8080/images/6b7c908e3f8458b1e488962ca43e1273.png" group-title="ESPORTE",ESR HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/115433.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESR FULL HD" tvg-logo="http://srv.painel.live:8080/images/6b7c908e3f8458b1e488962ca43e1273.png" group-title="ESPORTE",ESR FULL HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/115432.m3u8
+#EXTINF:-1 tvg-id="fashion.br" tvg-name="FASHIONTV BRASIL HD" tvg-logo="https://srv.painel.live/logo/fashiontvnew.png" group-title="VARIEDADES",FASHIONTV BRASIL HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109847.m3u8
+#EXTINF:-1 tvg-id="fashion.br" tvg-name="FASHIONTV BRASIL FULLHD" tvg-logo="https://srv.painel.live/logo/fashiontvnew.png" group-title="VARIEDADES",FASHIONTV BRASIL FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109846.m3u8
+#EXTINF:-1 tvg-id="film.arts.br" tvg-name="FILM & ARTS HD" tvg-logo="http://srv.painel.live:8080/images/c593738651e8f55287a17bb3216b59fc.png" group-title="FILMES & SERIES",FILM & ARTS HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/77308.m3u8
+#EXTINF:-1 tvg-id="film.arts.br" tvg-name="FILM & ARTS FULLHD" tvg-logo="http://srv.painel.live:8080/images/c593738651e8f55287a17bb3216b59fc.png" group-title="FILMES & SERIES",FILM & ARTS FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/77307.m3u8
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV HD" tvg-logo="http://srv.painel.live:8080/images/ff0a3424561e329798bd22aa734f35d0.png" group-title="VARIEDADES",FISH TV HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46473.m3u8
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV FULLHD" tvg-logo="http://srv.painel.live:8080/images/ff0a3424561e329798bd22aa734f35d0.png" group-title="VARIEDADES",FISH TV FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46774.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FONTE TV" tvg-logo="https://srv.painel.live/logo/fonte-tv.jpg" group-title="RELIGIOSOS",FONTE TV
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109809.m3u8
+#EXTINF:-1 tvg-id="food.network.br" tvg-name="FOOD NETWORK HD" tvg-logo="http://srv.painel.live:8080/images/6d06a630748001c7fe58e60718aca4fe.png" group-title="VARIEDADES",FOOD NETWORK HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46475.m3u8
+#EXTINF:-1 tvg-id="food.network.br" tvg-name="FOOD NETWORK FULLHD" tvg-logo="http://srv.painel.live:8080/images/6d06a630748001c7fe58e60718aca4fe.png" group-title="VARIEDADES",FOOD NETWORK FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46584.m3u8
+#EXTINF:-1 tvg-id="fox.news.br" tvg-name="FOX NEWS " tvg-logo="http://srv.painel.live:8080/images/7ade481345dd56273d73c3b3a9215c43.png" group-title="NOTICIAS",FOX NEWS 
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/115447.m3u8
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://srv.painel.live:8080/images/7ffb69c920747647d507beaa312cee71.png" group-title="ESPORTE",FOX SPORTS 2 HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46413.m3u8
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 FULLHD" tvg-logo="http://srv.painel.live:8080/images/7ffb69c920747647d507beaa312cee71.png" group-title="ESPORTE",FOX SPORTS 2 FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/49086.m3u8
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="FOX SPORTS HD" tvg-logo="http://srv.painel.live:8080/images/55d3fc2429217d2931adfd9d704fa36b.png" group-title="ESPORTE",FOX SPORTS HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116300.m3u8
+#EXTINF:-1 tvg-id="fox.sports.br" tvg-name="FOX SPORTS FULLHD" tvg-logo="http://srv.painel.live:8080/images/55d3fc2429217d2931adfd9d704fa36b.png" group-title="ESPORTE",FOX SPORTS FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116305.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24 FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="INTERNACIONAIS",FRANCE 24 FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104177.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FUEL TV HD" tvg-logo="http://srv.painel.live:8080/images/7ef9988b964141609aa105033adbf0c4.png" group-title="ESPORTE",FUEL TV HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/118591.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FUEL TV FULLHD" tvg-logo="http://srv.painel.live:8080/images/7ef9988b964141609aa105033adbf0c4.png" group-title="ESPORTE",FUEL TV FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/118590.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FUTEBOL PELO MUNDO" tvg-logo="http://srv.painel.live/logo/ftmundo.png" group-title="ESPORTE",FUTEBOL PELO MUNDO
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/113956.m3u8
+#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA FULLHD" tvg-logo="http://srv.painel.live:8080/images/9f421478c97dbc0ac34f7c149b58b155.png" group-title="ABERTOS",FUTURA FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46313.m3u8
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD" tvg-logo="http://srv.painel.live:8080/images/cbf087c2ac7afb269e60420d7de404eb.png" group-title="FILMES & SERIES",FX HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46315.m3u8
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX FULLHD" tvg-logo="http://srv.painel.live:8080/images/cbf087c2ac7afb269e60420d7de404eb.png" group-title="FILMES & SERIES",FX FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46591.m3u8
+#EXTINF:-1 tvg-id="globo.belo.horizonte.br" tvg-name="GLOBO BELO HORIZONTE HD" tvg-logo="http://srv.painel.live:8080/images/6c28055e2ac2b19f0d587f29cdfc767e.png" group-title="GLOBOS",GLOBO BELO HORIZONTE HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/94614.m3u8
+#EXTINF:-1 tvg-id="globo.belo.horizonte.br" tvg-name="GLOBO BELO HORIZONTE FULLHD" tvg-logo="http://srv.painel.live:8080/images/6c28055e2ac2b19f0d587f29cdfc767e.png" group-title="GLOBOS",GLOBO BELO HORIZONTE FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/103296.m3u8
+#EXTINF:-1 tvg-id="globo.brasilia.br" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://srv.painel.live:8080/images/6b414f9e71613bd946f8ccf6087892e5.png" group-title="GLOBOS",GLOBO BRASILIA HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104956.m3u8
+#EXTINF:-1 tvg-id="globo.brasilia.br" tvg-name="GLOBO BRASILIA FULLHD" tvg-logo="http://srv.painel.live:8080/images/6b414f9e71613bd946f8ccf6087892e5.png" group-title="GLOBOS",GLOBO BRASILIA FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104955.m3u8
+#EXTINF:-1 tvg-id="tv.centro.america.cuiaba.br" tvg-name="GLOBO CENTRO AMÉRICA HD" tvg-logo="http://srv.painel.live:8080/images/76cfd0c14cafead9c7b84a254215c23c.png" group-title="GLOBOS",GLOBO CENTRO AMÉRICA HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104622.m3u8
+#EXTINF:-1 tvg-id="tv.centro.america.cuiaba.br" tvg-name="GLOBO CENTRO AMÉRICA FULLHD" tvg-logo="http://srv.painel.live:8080/images/76cfd0c14cafead9c7b84a254215c23c.png" group-title="GLOBOS",GLOBO CENTRO AMÉRICA FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104621.m3u8
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="http://srv.painel.live:8080/images/d22dc88283aac5b91b97c698533844e0.png" group-title="GLOBOS",GLOBO EPTV CAMPINAS HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/103298.m3u8
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO EPTV CAMPINAS FULLHD" tvg-logo="http://srv.painel.live:8080/images/d22dc88283aac5b91b97c698533844e0.png" group-title="GLOBOS",GLOBO EPTV CAMPINAS FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/103297.m3u8
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO EPTV RIBEIRÃO PRETO HD" tvg-logo="http://srv.painel.live:8080/images/b2cb1ba9a24740a237fa8c8ea8420e53.png" group-title="GLOBOS",GLOBO EPTV RIBEIRÃO PRETO HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/103301.m3u8
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO EPTV RIBEIRÃO PRETO FULLHD" tvg-logo="http://srv.painel.live:8080/images/b2cb1ba9a24740a237fa8c8ea8420e53.png" group-title="GLOBOS",GLOBO EPTV RIBEIRÃO PRETO FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/103300.m3u8
+#EXTINF:-1 tvg-id="eptv.sul.minas.br" tvg-name="GLOBO EPTV SUL DE MINAS HD" tvg-logo="http://srv.painel.live:8080/images/a2d4c4a8112a77b29ccc1dacaede8838.png" group-title="GLOBOS",GLOBO EPTV SUL DE MINAS HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/94635.m3u8
+#EXTINF:-1 tvg-id="eptv.sul.minas.br" tvg-name="GLOBO EPTV SUL DE MINAS FULLHD" tvg-logo="http://srv.painel.live:8080/images/a2d4c4a8112a77b29ccc1dacaede8838.png" group-title="GLOBOS",GLOBO EPTV SUL DE MINAS FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/94634.m3u8
+#EXTINF:-1 tvg-id="intertv.alto.literal.br" tvg-name="GLOBO INTER TV ALTO LITORAL HD" tvg-logo="http://srv.painel.live:8080/images/e9f023e13f70c47404857a6292cb524b.png" group-title="GLOBOS",GLOBO INTER TV ALTO LITORAL HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104968.m3u8
+#EXTINF:-1 tvg-id="intertv.alto.literal.br" tvg-name="GLOBO INTER TV ALTO LITORAL FULLHD" tvg-logo="http://srv.painel.live:8080/images/e9f023e13f70c47404857a6292cb524b.png" group-title="GLOBOS",GLOBO INTER TV ALTO LITORAL FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104967.m3u8
+#EXTINF:-1 tvg-id="intertv.cabugi.br" tvg-name="GLOBO INTER TV CABUGI HD" tvg-logo="http://srv.painel.live:8080/images/e1a1f2f48955c0a3e8ebbdebcdfceb96.png" group-title="GLOBOS",GLOBO INTER TV CABUGI HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104775.m3u8
+#EXTINF:-1 tvg-id="intertv.cabugi.br" tvg-name="GLOBO INTER TV CABUGI FULLHD" tvg-logo="http://srv.painel.live:8080/images/e1a1f2f48955c0a3e8ebbdebcdfceb96.png" group-title="GLOBOS",GLOBO INTER TV CABUGI FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104774.m3u8
+#EXTINF:-1 tvg-id="intertv.grande.minas.br" tvg-name="GLOBO INTER TV DOS VALES HD" tvg-logo="http://srv.painel.live:8080/images/4e53f241b77c84d631dea8e784fc3a86.png" group-title="GLOBOS",GLOBO INTER TV DOS VALES HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/94632.m3u8
+#EXTINF:-1 tvg-id="intertv.grande.minas.br" tvg-name="GLOBO INTER TV DOS VALES FULLHD" tvg-logo="http://srv.painel.live:8080/images/4e53f241b77c84d631dea8e784fc3a86.png" group-title="GLOBOS",GLOBO INTER TV DOS VALES FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/94631.m3u8
+#EXTINF:-1 tvg-id="intertv.grande.minas.br" tvg-name="GLOBO INTER TV GRANDE MINAS MG HD" tvg-logo="http://srv.painel.live:8080/images/502af59b441df0e0af8cc58d40c78b4c.png" group-title="GLOBOS",GLOBO INTER TV GRANDE MINAS MG HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104263.m3u8
+#EXTINF:-1 tvg-id="intertv.grande.minas.br" tvg-name="GLOBO INTER TV GRANDE MINAS MG FULLHD" tvg-logo="http://srv.painel.live:8080/images/502af59b441df0e0af8cc58d40c78b4c.png" group-title="GLOBOS",GLOBO INTER TV GRANDE MINAS MG FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104262.m3u8
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS HD" tvg-logo="http://srv.painel.live:8080/images/4d746b30cdb7d79c502df82bf1745a18.png" group-title="NOTICIAS",GLOBO NEWS HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46511.m3u8
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS FULLHD" tvg-logo="http://srv.painel.live:8080/images/4d746b30cdb7d79c502df82bf1745a18.png" group-title="NOTICIAS",GLOBO NEWS FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46592.m3u8
+#EXTINF:-1 tvg-id="nsc.blumenau.br" tvg-name="GLOBO NSC BLUMENAU HD" tvg-logo="http://srv.painel.live:8080/images/55ff009e7e9f2fcbb4f9276a306401b8.png" group-title="GLOBOS",GLOBO NSC BLUMENAU HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104271.m3u8
+#EXTINF:-1 tvg-id="nsc.blumenau.br" tvg-name="GLOBO NSC BLUMENAU FULLHD" tvg-logo="http://srv.painel.live:8080/images/55ff009e7e9f2fcbb4f9276a306401b8.png" group-title="GLOBOS",GLOBO NSC BLUMENAU FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104270.m3u8
+#EXTINF:-1 tvg-id="nsc.blumenau.br" tvg-name="GLOBO NSC CENTRO OESTE HD" tvg-logo="http://srv.painel.live:8080/images/f32c43b0ca12950365e25172cb8087a2.png" group-title="GLOBOS",GLOBO NSC CENTRO OESTE HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/118896.m3u8
+#EXTINF:-1 tvg-id="nsc.blumenau.br" tvg-name="GLOBO NSC CENTRO OESTE FULLHD" tvg-logo="http://srv.painel.live:8080/images/f32c43b0ca12950365e25172cb8087a2.png" group-title="GLOBOS",GLOBO NSC CENTRO OESTE FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/118897.m3u8
+#EXTINF:-1 tvg-id="nsc.chapeco.br" tvg-name="GLOBO NSC CHAPECO HD" tvg-logo="http://srv.painel.live:8080/images/1d0750323fe2a47ca9d49dc480f9b775.png" group-title="GLOBOS",GLOBO NSC CHAPECO HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104265.m3u8
+#EXTINF:-1 tvg-id="nsc.chapeco.br" tvg-name="GLOBO NSC CHAPECO FULLHD" tvg-logo="http://srv.painel.live:8080/images/1d0750323fe2a47ca9d49dc480f9b775.png" group-title="GLOBOS",GLOBO NSC CHAPECO FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104264.m3u8
+#EXTINF:-1 tvg-id="nsc.criciuma.br" tvg-name="GLOBO NSC CRICIUMA HD" tvg-logo="http://srv.painel.live:8080/images/51cc9aa3d5f53f1832dec39f2ee4960b.png" group-title="GLOBOS",GLOBO NSC CRICIUMA HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104269.m3u8
+#EXTINF:-1 tvg-id="nsc.criciuma.br" tvg-name="GLOBO NSC CRICIUMA FULLHD" tvg-logo="http://srv.painel.live:8080/images/51cc9aa3d5f53f1832dec39f2ee4960b.png" group-title="GLOBOS",GLOBO NSC CRICIUMA FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104268.m3u8
+#EXTINF:-1 tvg-id="nsc.joinville.br" tvg-name="GLOBO NSC JOINVILLE HD" tvg-logo="http://srv.painel.live:8080/images/e1baef45d7074b65247b78316b3d1437.png" group-title="GLOBOS",GLOBO NSC JOINVILLE HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104267.m3u8
+#EXTINF:-1 tvg-id="nsc.joinville.br" tvg-name="GLOBO NSC JOINVILLE FULLHD" tvg-logo="http://srv.painel.live:8080/images/e1baef45d7074b65247b78316b3d1437.png" group-title="GLOBOS",GLOBO NSC JOINVILLE FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104266.m3u8
+#EXTINF:-1 tvg-id="nsc.florianopolis.br" tvg-name="GLOBO NSC TV FLORIANÓPOLIS HD" tvg-logo="http://srv.painel.live:8080/images/e7460e005f7d33d01fb4b6050aae15f6.png" group-title="GLOBOS",GLOBO NSC TV FLORIANÓPOLIS HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/94626.m3u8
+#EXTINF:-1 tvg-id="nsc.florianopolis.br" tvg-name="GLOBO NSC TV FLORIANÓPOLIS FULLHD" tvg-logo="http://srv.painel.live:8080/images/e7460e005f7d33d01fb4b6050aae15f6.png" group-title="GLOBOS",GLOBO NSC TV FLORIANÓPOLIS FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/94625.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="GLOBO RBS PORTO ALEGRE HD" tvg-logo="http://srv.painel.live:8080/images/2d420e0f6fcf9a40beeb823ef5779d74.png" group-title="GLOBOS",GLOBO RBS PORTO ALEGRE HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46665.m3u8
+#EXTINF:-1 tvg-id="globo.rbs.poa.br" tvg-name="GLOBO RBS PORTO ALEGRE FULLHD" tvg-logo="http://srv.painel.live:8080/images/2d420e0f6fcf9a40beeb823ef5779d74.png" group-title="GLOBOS",GLOBO RBS PORTO ALEGRE FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/77608.m3u8
+#EXTINF:-1 tvg-id="rbs.caxias.do.sul.br" tvg-name="GLOBO RBS TV CAXIAS DO SUL HD" tvg-logo="http://srv.painel.live:8080/images/d1cb1a7a53452e61b102fc04e639d862.png" group-title="GLOBOS",GLOBO RBS TV CAXIAS DO SUL HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/94628.m3u8
+#EXTINF:-1 tvg-id="rbs.porto.alegre.br" tvg-name="GLOBO RBS TV CAXIAS DO SUL FULLHD" tvg-logo="http://srv.painel.live:8080/images/d1cb1a7a53452e61b102fc04e639d862.png" group-title="GLOBOS",GLOBO RBS TV CAXIAS DO SUL FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/94629.m3u8
+#EXTINF:-1 tvg-id="globo.rbs.poa.br" tvg-name="GLOBO RBS TV PASSO FUNDO HD" tvg-logo="http://srv.painel.live:8080/images/9e409e46fb5b8f56b9494e311c0c0e83.png" group-title="GLOBOS",GLOBO RBS TV PASSO FUNDO HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/103505.m3u8
+#EXTINF:-1 tvg-id="globo.rbs.poa.br" tvg-name="GLOBO RBS TV PASSO FUNDO FULLHD" tvg-logo="http://srv.painel.live:8080/images/9e409e46fb5b8f56b9494e311c0c0e83.png" group-title="GLOBOS",GLOBO RBS TV PASSO FUNDO FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/103504.m3u8
+#EXTINF:-1 tvg-id="rbs.porto.alegre.br" tvg-name="GLOBO RBS TV PELOTAS HD" tvg-logo="http://srv.painel.live:8080/images/943bba9e04544859bdb6f5ef2e56aaf4.png" group-title="GLOBOS",GLOBO RBS TV PELOTAS HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104261.m3u8
+#EXTINF:-1 tvg-id="rbs.porto.alegre.br" tvg-name="GLOBO RBS TV PELOTAS FULLHD" tvg-logo="http://srv.painel.live:8080/images/943bba9e04544859bdb6f5ef2e56aaf4.png" group-title="GLOBOS",GLOBO RBS TV PELOTAS FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104260.m3u8
+#EXTINF:-1 tvg-id="tv.boa.vista.br" tvg-name="GLOBO REDE AMAZONICA BOA VISTA HD" tvg-logo="http://srv.painel.live:8080/images/d80c4b30f4b2e3d83c62e76848bdfed6.png" group-title="GLOBOS",GLOBO REDE AMAZONICA BOA VISTA HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116581.m3u8
+#EXTINF:-1 tvg-id="tv.macapa.br" tvg-name="GLOBO REDE AMAZONICA MACAPA HD" tvg-logo="http://srv.painel.live:8080/images/6e9f8ddf44d0fb7d98d44359da128ca1.png" group-title="GLOBOS",GLOBO REDE AMAZONICA MACAPA HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116579.m3u8
+#EXTINF:-1 tvg-id="rede.amazonica.manaus.br" tvg-name="GLOBO REDE AMAZONICA MANAUS HD" tvg-logo="http://srv.painel.live:8080/images/0d264edd465cf56409b72f34dbe2fa76.png" group-title="GLOBOS",GLOBO REDE AMAZONICA MANAUS HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116323.m3u8
+#EXTINF:-1 tvg-id="rede.amazonica.manaus.br" tvg-name="GLOBO REDE AMAZONICA MANAUS FULLHD" tvg-logo="http://srv.painel.live:8080/images/0d264edd465cf56409b72f34dbe2fa76.png" group-title="GLOBOS",GLOBO REDE AMAZONICA MANAUS FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116324.m3u8
+#EXTINF:-1 tvg-id="rede.amazonica.manaus.br" tvg-name="GLOBO REDE AMAZONICA RONDONIA HD" tvg-logo="http://srv.painel.live:8080/images/0f5bdded43c54bc3ec579871b146b891.png" group-title="GLOBOS",GLOBO REDE AMAZONICA RONDONIA HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104392.m3u8
+#EXTINF:-1 tvg-id="rede.amazonica.manaus.br" tvg-name="GLOBO REDE AMAZONICA RONDONIA FULLHD" tvg-logo="http://srv.painel.live:8080/images/0f5bdded43c54bc3ec579871b146b891.png" group-title="GLOBOS",GLOBO REDE AMAZONICA RONDONIA FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104394.m3u8
+#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="GLOBO RIO DE JANEIRO HD" tvg-logo="http://srv.painel.live:8080/images/64db18d7f509c153ef5d94aad9d60ccf.png" group-title="GLOBOS",GLOBO RIO DE JANEIRO HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46670.m3u8
+#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="GLOBO RIO DE JANEIRO FULLHD" tvg-logo="http://srv.painel.live:8080/images/64db18d7f509c153ef5d94aad9d60ccf.png" group-title="GLOBOS",GLOBO RIO DE JANEIRO FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46594.m3u8
+#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="GLOBO RPC CURITIBA HD" tvg-logo="http://srv.painel.live:8080/images/92bc04b960859ff8b5b5503a629cea9d.png" group-title="GLOBOS",GLOBO RPC CURITIBA HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46672.m3u8
+#EXTINF:-1 tvg-id="rpc.curitiba.br" tvg-name="GLOBO RPC CURITIBA FULLHD" tvg-logo="http://srv.painel.live:8080/images/92bc04b960859ff8b5b5503a629cea9d.png" group-title="GLOBOS",GLOBO RPC CURITIBA FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/97878.m3u8
+#EXTINF:-1 tvg-id="rpc.foz.do.iguacu.br" tvg-name="GLOBO RPC FOZ DO IGUAÇU HD" tvg-logo="http://srv.painel.live:8080/images/baad8dc565bb67fea5f99c966e46b6fc.png" group-title="GLOBOS",GLOBO RPC FOZ DO IGUAÇU HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/94623.m3u8
+#EXTINF:-1 tvg-id="rpc.foz.do.iguacu.br" tvg-name="GLOBO RPC FOZ DO IGUAÇU FULLHD" tvg-logo="http://srv.painel.live:8080/images/baad8dc565bb67fea5f99c966e46b6fc.png" group-title="GLOBOS",GLOBO RPC FOZ DO IGUAÇU FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/94622.m3u8
+#EXTINF:-1 tvg-id="rpc.maringa.br" tvg-name="GLOBO RPC MARINGA HD" tvg-logo="http://srv.painel.live:8080/images/fa338d00f4886dca3f610a2aff347819.png" group-title="GLOBOS",GLOBO RPC MARINGA HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/103327.m3u8
+#EXTINF:-1 tvg-id="rpc.maringa.br" tvg-name="GLOBO RPC MARINGA FULLHD" tvg-logo="http://srv.painel.live:8080/images/fa338d00f4886dca3f610a2aff347819.png" group-title="GLOBOS",GLOBO RPC MARINGA FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/103326.m3u8
+#EXTINF:-1 tvg-id="rpc.paranavai.br" tvg-name="GLOBO RPC PARANAVAI HD" tvg-logo="http://srv.painel.live:8080/images/ff3a1849800b3260875ed3ef573b3bfa.png" group-title="GLOBOS",GLOBO RPC PARANAVAI HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/103324.m3u8
+#EXTINF:-1 tvg-id="rpc.paranavai.br" tvg-name="GLOBO RPC PARANAVAI FULLHD" tvg-logo="http://srv.painel.live:8080/images/ff3a1849800b3260875ed3ef573b3bfa.png" group-title="GLOBOS",GLOBO RPC PARANAVAI FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/103323.m3u8
+#EXTINF:-1 tvg-id="rpc.ponta.grossa.br" tvg-name="GLOBO RPC TV PONTA GROSSA HD" tvg-logo="http://srv.painel.live:8080/images/962fad6b3a0825f43ba694f93aed1239.png" group-title="GLOBOS",GLOBO RPC TV PONTA GROSSA HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/94617.m3u8
+#EXTINF:-1 tvg-id="rpc.ponta.grossa.br" tvg-name="GLOBO RPC TV PONTA GROSSA FULLHD" tvg-logo="http://srv.painel.live:8080/images/962fad6b3a0825f43ba694f93aed1239.png" group-title="GLOBOS",GLOBO RPC TV PONTA GROSSA FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/94616.m3u8
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SAO PAULO HD" tvg-logo="http://srv.painel.live:8080/images/61d8ed35b6722604021c100355e8879f.png" group-title="GLOBOS",GLOBO SAO PAULO HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46677.m3u8
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SAO PAULO FULLHD" tvg-logo="http://srv.painel.live:8080/images/61d8ed35b6722604021c100355e8879f.png" group-title="GLOBOS",GLOBO SAO PAULO FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46595.m3u8
+#EXTINF:-1 tvg-id="globo.anhanguera.br" tvg-name="GLOBO TV ANHANGUERA HD" tvg-logo="http://srv.painel.live:8080/images/886ebf20a9a4107f4394891876ae4f0b.png" group-title="GLOBOS",GLOBO TV ANHANGUERA HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104384.m3u8
+#EXTINF:-1 tvg-id="globo.anhanguera.br" tvg-name="GLOBO TV ANHANGUERA FULLHD" tvg-logo="http://srv.painel.live:8080/images/886ebf20a9a4107f4394891876ae4f0b.png" group-title="GLOBOS",GLOBO TV ANHANGUERA FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104385.m3u8
+#EXTINF:-1 tvg-id="globo.bahia.br" tvg-name="Globo TV BAHIA HD" tvg-logo="http://srv.painel.live:8080/images/b91928565810a50a62dd56655f1a3403.png" group-title="GLOBOS",Globo TV BAHIA HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46679.m3u8
+#EXTINF:-1 tvg-id="globo.bahia.br" tvg-name="Globo TV BAHIA FULLHD" tvg-logo="http://srv.painel.live:8080/images/b91928565810a50a62dd56655f1a3403.png" group-title="GLOBOS",Globo TV BAHIA FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46596.m3u8
+#EXTINF:-1 tvg-id="tv.cabo.branco.br" tvg-name="GLOBO TV CABO BRANCO HD" tvg-logo="http://srv.painel.live:8080/images/07abb16ac34334e2f4eb47b9a8e13d30.png" group-title="GLOBOS",GLOBO TV CABO BRANCO HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116588.m3u8
+#EXTINF:-1 tvg-id="tv.diario.br" tvg-name="GLOBO TV DIÁRIO HD" tvg-logo="http://logo.painel.live/tv-diario_m.png" group-title="GLOBOS",GLOBO TV DIÁRIO HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/105254.m3u8
+#EXTINF:-1 tvg-id="tv.diario.br" tvg-name="GLOBO TV DIÁRIO FULLHD" tvg-logo="http://logo.painel.live/tv-diario_m.png" group-title="GLOBOS",GLOBO TV DIÁRIO FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/105253.m3u8
+#EXTINF:-1 tvg-id="tv.fronteira.br" tvg-name="GLOBO TV FRONTEIRA HD" tvg-logo="http://srv.painel.live:8080/images/81d1316fb12c255f3767ebd79daa3fee.png" group-title="GLOBOS",GLOBO TV FRONTEIRA HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104777.m3u8
+#EXTINF:-1 tvg-id="tv.fronteira.br" tvg-name="GLOBO TV FRONTEIRA FULLHD" tvg-logo="http://srv.painel.live:8080/images/81d1316fb12c255f3767ebd79daa3fee.png" group-title="GLOBOS",GLOBO TV FRONTEIRA FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104776.m3u8
+#EXTINF:-1 tvg-id="globo.nordeste.br" tvg-name="GLOBO TV GAZETA DE ALAGOAS HD" tvg-logo="http://srv.painel.live:8080/images/5d8064d714cf8d5b8f61e0f7ac048596.png" group-title="GLOBOS",GLOBO TV GAZETA DE ALAGOAS HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104953.m3u8
+#EXTINF:-1 tvg-id="globo.nordeste.br" tvg-name="GLOBO TV GAZETA DE ALAGOAS FULLHD" tvg-logo="http://srv.painel.live:8080/images/5d8064d714cf8d5b8f61e0f7ac048596.png" group-title="GLOBOS",GLOBO TV GAZETA DE ALAGOAS FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104954.m3u8
+#EXTINF:-1 tvg-id="tv.gazeta.sul.br" tvg-name="GLOBO TV GAZETA SUL HD" tvg-logo="http://srv.painel.live:8080/images/c84cd1799d572fd00ecdd6ded06f3c62.png" group-title="GLOBOS",GLOBO TV GAZETA SUL HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104960.m3u8
+#EXTINF:-1 tvg-id="tv.gazeta.sul.br" tvg-name="GLOBO TV GAZETA SUL FULLHD" tvg-logo="http://srv.painel.live:8080/images/c84cd1799d572fd00ecdd6ded06f3c62.png" group-title="GLOBOS",GLOBO TV GAZETA SUL FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104959.m3u8
+#EXTINF:-1 tvg-id="tv.gazeta.br" tvg-name="GLOBO TV GAZETA VITORIA HD" tvg-logo="http://srv.painel.live:8080/images/408f2084660b38da42039d7a050d3d0b.png" group-title="GLOBOS",GLOBO TV GAZETA VITORIA HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104962.m3u8
+#EXTINF:-1 tvg-id="tv.gazeta.br" tvg-name="GLOBO TV GAZETA VITORIA FULLHD" tvg-logo="http://srv.painel.live:8080/images/408f2084660b38da42039d7a050d3d0b.png" group-title="GLOBOS",GLOBO TV GAZETA VITORIA FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104961.m3u8
+#EXTINF:-1 tvg-id="tv.integracao.uberlandia.br" tvg-name="GLOBO TV INTEGRAÇAO JUIZ DE FORA - MG HD" tvg-logo="http://srv.painel.live:8080/images/6833cdf4579d8763579e71f6a5b704b3.png" group-title="GLOBOS",GLOBO TV INTEGRAÇAO JUIZ DE FORA - MG HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104259.m3u8
+#EXTINF:-1 tvg-id="tv.integracao.uberlandia.br" tvg-name="GLOBO TV INTEGRAÇAO JUIZ DE FORA - MG FULLHD" tvg-logo="http://srv.painel.live:8080/images/6833cdf4579d8763579e71f6a5b704b3.png" group-title="GLOBOS",GLOBO TV INTEGRAÇAO JUIZ DE FORA - MG FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104258.m3u8
+#EXTINF:-1 tvg-id="tv.integracao.uberlandia.br" tvg-name="GLOBO TV INTEGRAÇÃO ARAXA HD" tvg-logo="http://srv.painel.live:8080/images/317598ddc7e74e2e92262dbf6fc79a0f.png" group-title="GLOBOS",GLOBO TV INTEGRAÇÃO ARAXA HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/94620.m3u8
+#EXTINF:-1 tvg-id="tv.integracao.uberlandia.br" tvg-name="GLOBO TV INTEGRAÇÃO ARAXA FULLHD" tvg-logo="http://srv.painel.live:8080/images/317598ddc7e74e2e92262dbf6fc79a0f.png" group-title="GLOBOS",GLOBO TV INTEGRAÇÃO ARAXA FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/94619.m3u8
+#EXTINF:-1 tvg-id="globo.belem.liberal.br" tvg-name="GLOBO TV LIBERAL BELEM FULLHD" tvg-logo="http://srv.painel.live:8080/images/632991ddde750d81b94627479990e969.png" group-title="GLOBOS",GLOBO TV LIBERAL BELEM FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104617.m3u8
+#EXTINF:-1 tvg-id="tv.meridional.br" tvg-name="GLOBO TV MIRANTE COCAIS HD" tvg-logo="http://srv.painel.live:8080/images/687a90506ea1e93c641cd2407b5c1de6.png" group-title="GLOBOS",GLOBO TV MIRANTE COCAIS HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116586.m3u8
+#EXTINF:-1 tvg-id="tv.sao.luis.br" tvg-name="GLOBO TV MIRANTE SÃO LUIS HD" tvg-logo="http://srv.painel.live:8080/images/687a90506ea1e93c641cd2407b5c1de6.png" group-title="GLOBOS",GLOBO TV MIRANTE SÃO LUIS HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116590.m3u8
+#EXTINF:-1 tvg-id="tv.morena.br" tvg-name="GLOBO TV MORENA HD" tvg-logo="http://logo.painel.live/tvmorena.png" group-title="GLOBOS",GLOBO TV MORENA HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46688.m3u8
+#EXTINF:-1 tvg-id="tv.morena.br" tvg-name="GLOBO TV MORENA FULLHD" tvg-logo="http://logo.painel.live/tvmorena.png" group-title="GLOBOS",GLOBO TV MORENA FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104402.m3u8
+#EXTINF:-1 tvg-id="globo.nordeste.br" tvg-name="GLOBO TV NORDESTE  FULLHD" tvg-logo="http://srv.painel.live:8080/images/03c891ca6f30febc45e934b80c45fb0f.png" group-title="GLOBOS",GLOBO TV NORDESTE  FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104619.m3u8
+#EXTINF:-1 tvg-id="globo.nordeste.br" tvg-name="GLOBO TV NORDESTE HD" tvg-logo="http://srv.painel.live:8080/images/03c891ca6f30febc45e934b80c45fb0f.png" group-title="GLOBOS",GLOBO TV NORDESTE HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104620.m3u8
+#EXTINF:-1 tvg-id="tv.rio.sul.br" tvg-name="GLOBO TV RIO SUL HD" tvg-logo="http://srv.painel.live:8080/images/5fa27d6b73fd6e38931724287623924c.png" group-title="GLOBOS",GLOBO TV RIO SUL HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104779.m3u8
+#EXTINF:-1 tvg-id="tv.rio.sul.br" tvg-name="GLOBO TV RIO SUL FULLHD" tvg-logo="http://srv.painel.live:8080/images/5fa27d6b73fd6e38931724287623924c.png" group-title="GLOBOS",GLOBO TV RIO SUL FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104778.m3u8
+#EXTINF:-1 tvg-id="tv.sergipe.br" tvg-name="GLOBO TV SERGIPE HD" tvg-logo="http://srv.painel.live:8080/images/094be1d0b5e87e70dc64c8ee5765813c.png" group-title="GLOBOS",GLOBO TV SERGIPE HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116584.m3u8
+#EXTINF:-1 tvg-id="intertv.serra.mar.br" tvg-name="GLOBO TV SERRA+MAR HD" tvg-logo="http://srv.painel.live:8080/images/c3ed6f655cbe7f8ee14c2251a27412d2.png" group-title="GLOBOS",GLOBO TV SERRA+MAR HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104781.m3u8
+#EXTINF:-1 tvg-id="intertv.serra.mar.br" tvg-name="GLOBO TV SERRA+MAR FULLHD" tvg-logo="http://srv.painel.live:8080/images/c3ed6f655cbe7f8ee14c2251a27412d2.png" group-title="GLOBOS",GLOBO TV SERRA+MAR FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104780.m3u8
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO TV TEM BAURU HD" tvg-logo="http://srv.painel.live:8080/images/8e51c3a4e23bcb3d53cc5f14554ce6b9.png" group-title="GLOBOS",GLOBO TV TEM BAURU HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/103321.m3u8
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO TV TEM BAURU FULLHD" tvg-logo="http://srv.painel.live:8080/images/8e51c3a4e23bcb3d53cc5f14554ce6b9.png" group-title="GLOBOS",GLOBO TV TEM BAURU FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/103320.m3u8
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="GLOBO TV TEM SOROCABA HD" tvg-logo="http://srv.painel.live:8080/images/a0491ce8845fb9c35c9bc83b27be8b3f.png" group-title="GLOBOS",GLOBO TV TEM SOROCABA HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104958.m3u8
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="GLOBO TV TEM SOROCABA FULLHD" tvg-logo="http://srv.painel.live:8080/images/a0491ce8845fb9c35c9bc83b27be8b3f.png" group-title="GLOBOS",GLOBO TV TEM SOROCABA FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104957.m3u8
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="GLOBO TV TEM SÃO JOSÉ DO RIO PRETO HD" tvg-logo="http://srv.painel.live:8080/images/4d260a20dbf600383e22a05492c709e9.png" group-title="GLOBOS",GLOBO TV TEM SÃO JOSÉ DO RIO PRETO HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104964.m3u8
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="GLOBO TV TEM SÃO JOSÉ DO RIO PRETO FULLHD" tvg-logo="http://srv.painel.live:8080/images/4d260a20dbf600383e22a05492c709e9.png" group-title="GLOBOS",GLOBO TV TEM SÃO JOSÉ DO RIO PRETO FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104963.m3u8
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO TV TRIBUNA SANTOS HD" tvg-logo="http://srv.painel.live:8080/images/7ded8865d6f1cda4d579df08c1e66863.png" group-title="GLOBOS",GLOBO TV TRIBUNA SANTOS HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/103304.m3u8
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO TV TRIBUNA SANTOS FULLHD" tvg-logo="http://srv.painel.live:8080/images/7ded8865d6f1cda4d579df08c1e66863.png" group-title="GLOBOS",GLOBO TV TRIBUNA SANTOS FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/103303.m3u8
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO TV VANGUARDA S. J. CAMPOS FULLHD" tvg-logo="http://srv.painel.live:8080/images/17b82bf0d81fdc05716d2b12bd7f257d.png" group-title="GLOBOS",GLOBO TV VANGUARDA S. J. CAMPOS FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/103306.m3u8
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO TV VANGUARDA S. J. DOS CAMPOS HD" tvg-logo="http://srv.painel.live:8080/images/17b82bf0d81fdc05716d2b12bd7f257d.png" group-title="GLOBOS",GLOBO TV VANGUARDA S. J. DOS CAMPOS HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/103307.m3u8
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="GLOBO TV VANGUARDA TAUBATÉ HD" tvg-logo="http://srv.painel.live:8080/images/6f60a541e1224ca9d0903355039a9ac1.png" group-title="GLOBOS",GLOBO TV VANGUARDA TAUBATÉ HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104966.m3u8
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="GLOBO VANGUARDA TAUBATÉ FULLHD" tvg-logo="http://srv.painel.live:8080/images/6f60a541e1224ca9d0903355039a9ac1.png" group-title="GLOBOS",GLOBO VANGUARDA TAUBATÉ FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104965.m3u8
+#EXTINF:-1 tvg-id="tv.verdes.mares.br" tvg-name="GLOBO VERDES MARES HD" tvg-logo="http://srv.painel.live:8080/images/5ed86945eb42926077c5d8ee136c45b7.png" group-title="GLOBOS",GLOBO VERDES MARES HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104183.m3u8
+#EXTINF:-1 tvg-id="tv.verdes.mares.br" tvg-name="GLOBO VERDES MARES FULLHD" tvg-logo="http://srv.painel.live:8080/images/5ed86945eb42926077c5d8ee136c45b7.png" group-title="GLOBOS",GLOBO VERDES MARES FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104184.m3u8
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB HD" tvg-logo="http://srv.painel.live:8080/images/fdb971e90b2a6d13043955e22e2b413c.png" group-title="INFANTIS",GLOOB HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46379.m3u8
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB FULLHD" tvg-logo="http://srv.painel.live:8080/images/fdb971e90b2a6d13043955e22e2b413c.png" group-title="INFANTIS",GLOOB FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46597.m3u8
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="http://srv.painel.live:8080/images/15db6dcabfc17eb914a7891a3627198d.png" group-title="INFANTIS",GLOOBINHO HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/49735.m3u8
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="GLOOBINHO FULLHD" tvg-logo="http://srv.painel.live:8080/images/15db6dcabfc17eb914a7891a3627198d.png" group-title="INFANTIS",GLOOBINHO FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/49734.m3u8
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="http://srv.painel.live:8080/images/8387435aac08f0410a1b6306865eb37e.png" group-title="VARIEDADES",GNT HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46477.m3u8
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT FULLHD" tvg-logo="http://srv.painel.live:8080/images/8387435aac08f0410a1b6306865eb37e.png" group-title="VARIEDADES",GNT FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/74155.m3u8
+#EXTINF:-1 tvg-id="golf.br" tvg-name="GOLF CHANNEL HD" tvg-logo="http://logo.painel.live/golf.png" group-title="ESPORTE",GOLF CHANNEL HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/115345.m3u8
+#EXTINF:-1 tvg-id="golf.br" tvg-name="GOLF CHANNEL FULLHD" tvg-logo="http://logo.painel.live/golf.png" group-title="ESPORTE",GOLF CHANNEL FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/115346.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOSPEL MOVIE TV" tvg-logo="https://srv.painel.live/logo/9ec2c361a5ce07ba0f7987bcd36dbb1d.jpg" group-title="RELIGIOSOS",GOSPEL MOVIE TV
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109823.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOSPEL MOVIE TV 2" tvg-logo="https://srv.painel.live/logo/9ec2c361a5ce07ba0f7987bcd36dbb1d.jpg" group-title="RELIGIOSOS",GOSPEL MOVIE TV 2
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109824.m3u8
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 FULL  HD" tvg-logo="http://srv.painel.live:8080/images/5589643b8605ed389926160f6c85fdfe.png" group-title="TELECINE & HBO",HBO 2 FULL  HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46599.m3u8
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 HD" tvg-logo="http://srv.painel.live:8080/images/5589643b8605ed389926160f6c85fdfe.png" group-title="TELECINE & HBO",HBO 2 HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46528.m3u8
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY HD" tvg-logo="http://srv.painel.live:8080/images/c57e2e3cac8049a720780d5ba7fdf696.png" group-title="TELECINE & HBO",HBO FAMILY HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46530.m3u8
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY FULLHD" tvg-logo="http://srv.painel.live:8080/images/c57e2e3cac8049a720780d5ba7fdf696.png" group-title="TELECINE & HBO",HBO FAMILY FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46600.m3u8
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="http://logo.painel.live/HBO.png" group-title="TELECINE & HBO",HBO HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46532.m3u8
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FULLHD" tvg-logo="http://logo.painel.live/HBO.png" group-title="TELECINE & HBO",HBO FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46601.m3u8
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI HD" tvg-logo="http://logo.painel.live/hbo-mundi.png" group-title="TELECINE & HBO",HBO MUNDI HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46533.m3u8
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI FULLHD" tvg-logo="http://logo.painel.live/hbo-mundi.png" group-title="TELECINE & HBO",HBO MUNDI FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/48237.m3u8
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS HD" tvg-logo="http://srv.painel.live:8080/images/828c145d6d247766ad0ccf13e8c895f0.png" group-title="TELECINE & HBO",HBO PLUS HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46535.m3u8
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS FULLHD" tvg-logo="http://srv.painel.live:8080/images/828c145d6d247766ad0ccf13e8c895f0.png" group-title="TELECINE & HBO",HBO PLUS FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46602.m3u8
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD" tvg-logo="http://logo.painel.live/hbo-pop.png" group-title="TELECINE & HBO",HBO POP HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46539.m3u8
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP FULLHD" tvg-logo="http://logo.painel.live/hbo-pop.png" group-title="TELECINE & HBO",HBO POP FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/48238.m3u8
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="http://srv.painel.live:8080/images/6edc1fd885f9412c3a0090032643437b.png" group-title="TELECINE & HBO",HBO SIGNATURE HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46542.m3u8
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE FULLHD" tvg-logo="http://srv.painel.live:8080/images/6edc1fd885f9412c3a0090032643437b.png" group-title="TELECINE & HBO",HBO SIGNATURE FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46603.m3u8
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME HD" tvg-logo="http://logo.painel.live/hbo-xtreme.png" group-title="TELECINE & HBO",HBO XTREME HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46544.m3u8
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME FULLHD" tvg-logo="http://logo.painel.live/hbo-xtreme.png" group-title="TELECINE & HBO",HBO XTREME FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46604.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HELLO!TV" tvg-logo="http://logo.painel.live/G4KzfCz.png" group-title="FILMES & SERIES",HELLO!TV
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116754.m3u8
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD" tvg-logo="http://logo.painel.live/hgtv.png" group-title="VARIEDADES",HGTV HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46479.m3u8
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV FULLHD" tvg-logo="http://logo.painel.live/hgtv.png" group-title="VARIEDADES",HGTV FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46605.m3u8
+#EXTINF:-1 tvg-id="history.2.br" tvg-name="HISTORY 2 HD" tvg-logo="http://srv.painel.live:8080/images/bce7e4791400be9c9a78a3a263b355be.png" group-title="DOCUMENTARIOS",HISTORY 2 HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/90026.m3u8
+#EXTINF:-1 tvg-id="history.2.br" tvg-name="HISTORY 2 FULLHD" tvg-logo="http://srv.painel.live:8080/images/bce7e4791400be9c9a78a3a263b355be.png" group-title="DOCUMENTARIOS",HISTORY 2 FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/90025.m3u8
+#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY CHANNEL HD" tvg-logo="http://srv.painel.live:8080/images/bc12fa8bc93f5229c557bcb6b8623dc5.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46355.m3u8
+#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY CHANNEL FULLHD" tvg-logo="http://srv.painel.live:8080/images/bc12fa8bc93f5229c557bcb6b8623dc5.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46606.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HLN FULLHD" tvg-logo="http://srv.painel.live:8080/images/624b3023f952f722606d98b9b4fd475f.png" group-title="INTERNACIONAIS",HLN FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/97522.m3u8
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID INVESTIGAÇÃO DISCOVERY HD" tvg-logo="http://srv.painel.live:8080/images/00302aa4b48944a45412edb01fb25395.png" group-title="DOCUMENTARIOS",ID INVESTIGAÇÃO DISCOVERY HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46357.m3u8
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="ID INVESTIGAÇÃO DISCOVERY FULLHD" tvg-logo="http://srv.painel.live:8080/images/00302aa4b48944a45412edb01fb25395.png" group-title="DOCUMENTARIOS",ID INVESTIGAÇÃO DISCOVERY FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46607.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IGREJA MUNDIAL DO PODER DE DEUS" tvg-logo="https://srv.painel.live/logo/mundialdopoder-185x200.jpg" group-title="RELIGIOSOS",IGREJA MUNDIAL DO PODER DE DEUS
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109818.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="INSPIRE HD" tvg-logo="http://logo.painel.live/NsB87rG.png" group-title="VARIEDADES",INSPIRE HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116751.m3u8
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME HD" tvg-logo="http://srv.painel.live:8080/images/cfa37edd24783547a3a0b01c117587bf.png" group-title="VARIEDADES",LIFETIME HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46481.m3u8
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME FULLHD" tvg-logo="http://srv.painel.live:8080/images/cfa37edd24783547a3a0b01c117587bf.png" group-title="VARIEDADES",LIFETIME FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46608.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LOADING HD" tvg-logo="http://srv.painel.live:8080/images/751445672377b44529353cb636634a5b.png" group-title="INFANTIS",LOADING HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/103629.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LOADING FULLHD" tvg-logo="http://srv.painel.live:8080/images/751445672377b44529353cb636634a5b.png" group-title="INFANTIS",LOADING FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/103628.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="LOVE NATURE HD" tvg-logo="http://logo.painel.live/Love-Nature.png" group-title="DOCUMENTARIOS",LOVE NATURE HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/47058.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE FULLHD" tvg-logo="http://logo.painel.live/Love-Nature.png" group-title="DOCUMENTARIOS",LOVE NATURE FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/47057.m3u8
+#EXTINF:-1 tvg-id="plus.globosat.br" tvg-name="MAIS GLOBOSAT HD" tvg-logo="http://logo.painel.live/maisglobosat.png" group-title="VARIEDADES",MAIS GLOBOSAT HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46483.m3u8
+#EXTINF:-1 tvg-id="plus.globosat.br" tvg-name="MAIS GLOBOSAT FULLHD" tvg-logo="http://logo.painel.live/maisglobosat.png" group-title="VARIEDADES",MAIS GLOBOSAT FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46609.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MASTER TV HD" tvg-logo="http://srv.painel.live:8080/images/28968f6df21bd9b614582e25c84abd11.png" group-title="ABERTOS",MASTER TV HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/117047.m3u8
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD" tvg-logo="http://srv.painel.live:8080/images/027af0c36ddcb5dc43fe653d31fb7a80.png" group-title="FILMES & SERIES",MEGAPIX HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46318.m3u8
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX FULLHD" tvg-logo="http://srv.painel.live:8080/images/027af0c36ddcb5dc43fe653d31fb7a80.png" group-title="FILMES & SERIES",MEGAPIX FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46610.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MELHORES MOMENTOS TNT ESTADIO" tvg-logo="http://srv.painel.live:8080/images/4eacbfc385e39d0aaec3721fc35f01b1.png" group-title="ESTADIO TNT SPORTS",MELHORES MOMENTOS TNT ESTADIO
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/106053.m3u8
+#EXTINF:-1 tvg-id="vh1.br" tvg-name="MTV 00S HD" tvg-logo="http://srv.painel.live:8080/images/c1ea5579840450f5c9c71d85acdb0c6f.png" group-title="VARIEDADES",MTV 00S HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116309.m3u8
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD" tvg-logo="http://srv.painel.live:8080/images/c172ee869690d920bf74d9313bb3088c.png" group-title="VARIEDADES",MTV HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46485.m3u8
+#EXTINF:-1 tvg-id="mtv.brasil.br" tvg-name="MTV FULLHD" tvg-logo="http://srv.painel.live:8080/images/c172ee869690d920bf74d9313bb3088c.png" group-title="VARIEDADES",MTV FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46611.m3u8
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW HD" tvg-logo="http://srv.painel.live:8080/images/ff27606e57b9f45628d48f6b5c363317.png" group-title="VARIEDADES",MULTISHOW HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46488.m3u8
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW FULLHD" tvg-logo="http://srv.painel.live:8080/images/ff27606e57b9f45628d48f6b5c363317.png" group-title="VARIEDADES",MULTISHOW FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46613.m3u8
+#EXTINF:-1 tvg-id="music.box.brasil.br" tvg-name="MUSIC BOX BRASIL HD" tvg-logo="http://logo.painel.live/musicboxbrazil.png" group-title="VARIEDADES",MUSIC BOX BRASIL HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/47056.m3u8
+#EXTINF:-1 tvg-id="music.box.brasil.br" tvg-name="MUSIC BOX BRASIL FULLHD" tvg-logo="http://logo.painel.live/musicboxbrazil.png" group-title="VARIEDADES",MUSIC BOX BRASIL FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/47055.m3u8
+#EXTINF:-1 tvg-id="nat.geo.kids.br" tvg-name="NAT GEO KIDS HD" tvg-logo="http://srv.painel.live:8080/images/bab209323ca299238da807be04e6b398.png" group-title="INFANTIS",NAT GEO KIDS HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46382.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="NAT GEO KIDS FULLHD " tvg-logo="http://srv.painel.live:8080/images/bab209323ca299238da807be04e6b398.png" group-title="INFANTIS",NAT GEO KIDS FULLHD 
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46614.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="NAT GEO WILD HD" tvg-logo="http://srv.painel.live:8080/images/1eb055f35a772df4eb244489c41414d9.png" group-title="DOCUMENTARIOS",NAT GEO WILD HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46359.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="NAT GEO WILD FULLHD" tvg-logo="http://srv.painel.live:8080/images/1eb055f35a772df4eb244489c41414d9.png" group-title="DOCUMENTARIOS",NAT GEO WILD FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46615.m3u8
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://srv.painel.live:8080/images/9f36caef63d793afaf3080ca8a546579.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46361.m3u8
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATIONAL GEOGRAPHIC FULLHD" tvg-logo="http://srv.painel.live:8080/images/9f36caef63d793afaf3080ca8a546579.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46616.m3u8
+#EXTINF:-1 tvg-id="nhk.br" tvg-name="NHK HD" tvg-logo="http://srv.painel.live:8080/images/ac92f009f08464b14a1cb1ebe728e026.png" group-title="INTERNACIONAIS",NHK HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46491.m3u8
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JR HD" tvg-logo="http://srv.painel.live:8080/images/4b5d712150d82f5b0d1b26a8c4a37d7c.png" group-title="INFANTIS",NICK JR HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46384.m3u8
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JR FULLHD" tvg-logo="http://srv.painel.live:8080/images/4b5d712150d82f5b0d1b26a8c4a37d7c.png" group-title="INFANTIS",NICK JR FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46617.m3u8
+#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON HD" tvg-logo="http://srv.painel.live:8080/images/c67bd4d906e18a228a150ff119a45838.png" group-title="INFANTIS",NICKELODEON HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46386.m3u8
+#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELODEON FULLHD" tvg-logo="http://srv.painel.live:8080/images/c67bd4d906e18a228a150ff119a45838.png" group-title="INFANTIS",NICKELODEON FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46618.m3u8
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD" tvg-logo="http://srv.painel.live:8080/images/b3dd9b01ee12f39090768abcd6a75c3d.png" group-title="VARIEDADES",OFF HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46493.m3u8
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF FULLHD" tvg-logo="http://srv.painel.live:8080/images/b3dd9b01ee12f39090768abcd6a75c3d.png" group-title="VARIEDADES",OFF FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/47070.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OS PINGO NO  IS - REPRISE 24 HORAS" tvg-logo="http://srv.painel.live:8080/images/6193824b447aa12e15f4f0fad8ca6b06.png" group-title="OS PINGO NO IS - JOVEM PAN",OS PINGO NO  IS - REPRISE 24 HORAS
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/118321.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OS PINGO NO IS - TODOS OS DIAS 18 HORAS" tvg-logo="http://srv.painel.live:8080/images/a292629a8d53d708ce284575558a0701.png" group-title="OS PINGO NO IS - JOVEM PAN",OS PINGO NO IS - TODOS OS DIAS 18 HORAS
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/118320.m3u8
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="http://srv.painel.live:8080/images/f525c66c40ba8f0fecb0b8531420c07e.png" group-title="FILMES & SERIES",PARAMOUNT CHANNEL HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46320.m3u8
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT CHANNEL FULLHD" tvg-logo="http://srv.painel.live:8080/images/f525c66c40ba8f0fecb0b8531420c07e.png" group-title="FILMES & SERIES",PARAMOUNT CHANNEL FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46619.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAULISTAO PLAY" tvg-logo="http://srv.painel.live:8080/images/9b21a6356aca8caedea2a013457173ad.png" group-title="ESTADUAIS",PAULISTAO PLAY
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/113952.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAULISTAO PLAY" tvg-logo="http://srv.painel.live:8080/images/9b21a6356aca8caedea2a013457173ad.png" group-title="ESTADUAIS",PAULISTAO PLAY
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/113954.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAULISTAO PLAY" tvg-logo="http://srv.painel.live:8080/images/9b21a6356aca8caedea2a013457173ad.png" group-title="ESTADUAIS",PAULISTAO PLAY
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/113955.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POLISHOP HD" tvg-logo="https://srv.painel.live/logo/polishopnew.png" group-title="ABERTOS",POLISHOP HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/115438.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="POLISHOP FULLHD" tvg-logo="https://srv.painel.live/logo/polishopnew.png" group-title="ABERTOS",POLISHOP FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109837.m3u8
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2  FULLHD" tvg-logo="http://srv.painel.live:8080/images/eed5c527d537c09f85115a7bc8e19b3a.png" group-title="PREMIERE",PREMIERE 2  FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46620.m3u8
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 HD" tvg-logo="http://srv.painel.live:8080/images/eed5c527d537c09f85115a7bc8e19b3a.png" group-title="PREMIERE",PREMIERE 2 HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46514.m3u8
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 HD" tvg-logo="http://srv.painel.live:8080/images/eed5c527d537c09f85115a7bc8e19b3a.png" group-title="PREMIERE",PREMIERE 3 HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46516.m3u8
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 FULLHD" tvg-logo="http://srv.painel.live:8080/images/eed5c527d537c09f85115a7bc8e19b3a.png" group-title="PREMIERE",PREMIERE 3 FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46621.m3u8
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 HD" tvg-logo="http://srv.painel.live:8080/images/eed5c527d537c09f85115a7bc8e19b3a.png" group-title="PREMIERE",PREMIERE 4 HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46518.m3u8
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 FULLHD" tvg-logo="http://srv.painel.live:8080/images/eed5c527d537c09f85115a7bc8e19b3a.png" group-title="PREMIERE",PREMIERE 4 FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46622.m3u8
+#EXTINF:-1 tvg-id="premiere.5.brazil.br" tvg-name="PREMIERE 5 HD" tvg-logo="http://srv.painel.live:8080/images/eed5c527d537c09f85115a7bc8e19b3a.png" group-title="PREMIERE",PREMIERE 5 HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46520.m3u8
+#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 FULLHD" tvg-logo="http://srv.painel.live:8080/images/eed5c527d537c09f85115a7bc8e19b3a.png" group-title="PREMIERE",PREMIERE 5 FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46623.m3u8
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 HD" tvg-logo="http://srv.painel.live:8080/images/eed5c527d537c09f85115a7bc8e19b3a.png" group-title="PREMIERE",PREMIERE 6 HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116287.m3u8
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 HD" tvg-logo="http://srv.painel.live:8080/images/eed5c527d537c09f85115a7bc8e19b3a.png" group-title="PREMIERE",PREMIERE 7 HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116288.m3u8
+#EXTINF:-1 tvg-id="premiere.8.br" tvg-name="PREMIERE 8 " tvg-logo="http://srv.painel.live:8080/images/eed5c527d537c09f85115a7bc8e19b3a.png" group-title="PREMIERE",PREMIERE 8 
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116289.m3u8
+#EXTINF:-1 tvg-id="premiere.8.br" tvg-name="PREMIERE 8 HD" tvg-logo="http://srv.painel.live:8080/images/eed5c527d537c09f85115a7bc8e19b3a.png" group-title="PREMIERE",PREMIERE 8 HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116795.m3u8
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://srv.painel.live:8080/images/eed5c527d537c09f85115a7bc8e19b3a.png" group-title="PREMIERE",PREMIERE CLUBES HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46526.m3u8
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES FULLHD" tvg-logo="http://srv.painel.live:8080/images/eed5c527d537c09f85115a7bc8e19b3a.png" group-title="PREMIERE",PREMIERE CLUBES FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46624.m3u8
+#EXTINF:-1 tvg-id="prime.box.brazil.br" tvg-name="PRIME BOX BRASIL" tvg-logo="http://srv.painel.live:8080/images/ce9c59de83cd5c3e4378d358c0a98eb1.png" group-title="VARIEDADES",PRIME BOX BRASIL
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/117042.m3u8
+#EXTINF:-1 tvg-id="prime.box.brazil.br" tvg-name="PRIME BOX BRASIL HD" tvg-logo="http://srv.painel.live:8080/images/ce9c59de83cd5c3e4378d358c0a98eb1.png" group-title="VARIEDADES",PRIME BOX BRASIL HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109845.m3u8
+#EXTINF:-1 tvg-id="prime.box.brazil.br" tvg-name="PRIME BOX BRASIL FULLHD" tvg-logo="http://srv.painel.live:8080/images/ce9c59de83cd5c3e4378d358c0a98eb1.png" group-title="FILMES & SERIES",PRIME BOX BRASIL FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109844.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRIMER TV HD" tvg-logo="http://srv.painel.live:8080/images/91334f21d86fd389ba36e7fd14f6af7c.png" group-title="ABERTOS",PRIMER TV HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/117048.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROGRAMAÇÃO TNT ESTADIO" tvg-logo="http://srv.painel.live:8080/images/4eacbfc385e39d0aaec3721fc35f01b1.png" group-title="ESTADIO TNT SPORTS",PROGRAMAÇÃO TNT ESTADIO
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/106051.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 01 HD" tvg-logo="http://logo.painel.live/38_es.jpg" group-title="PT : ELEVEN SPORTS",PT: ELEVEN SPORTS 01 HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116759.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 02 HD" tvg-logo="http://logo.painel.live/39_es.jpg" group-title="PT : ELEVEN SPORTS",PT: ELEVEN SPORTS 02 HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116760.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 03 HD" tvg-logo="http://logo.painel.live/40_es.jpg" group-title="PT : ELEVEN SPORTS",PT: ELEVEN SPORTS 03 HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116761.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 04 HD" tvg-logo="http://logo.painel.live/41_es.jpg" group-title="PT : ELEVEN SPORTS",PT: ELEVEN SPORTS 04 HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116762.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 05 HD" tvg-logo="http://logo.painel.live/42_es.jpg" group-title="PT : ELEVEN SPORTS",PT: ELEVEN SPORTS 05 HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116764.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 06 HD" tvg-logo="http://logo.painel.live/43_es.jpg" group-title="PT : ELEVEN SPORTS",PT: ELEVEN SPORTS 06 HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116763.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RAI NEWS 24 FULLHD" tvg-logo="http://srv.painel.live:8080/images/fd456406745d816a45cae554c788e754.png" group-title="INTERNACIONAIS",RAI NEWS 24 FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104178.m3u8
+#EXTINF:-1 tvg-id="rede.brasil.br" tvg-name="RBTV - REDE BRASIL" tvg-logo="http://srv.painel.live:8080/images/387f12245adb02d00dc3a87e3dc861d0.png" group-title="ABERTOS",RBTV - REDE BRASIL
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109808.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RDC TV HD" tvg-logo="http://logo.painel.live/RDC.png" group-title="VARIEDADES",RDC TV HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109892.m3u8
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD BELEM DO PARÁ HD" tvg-logo="http://srv.painel.live:8080/images/ead18e3b92ea0b03656d3875f1a3ff63.png" group-title="RECORD TV",RECORD BELEM DO PARÁ HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109696.m3u8
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD BELEM DO PARÁ FULLHD" tvg-logo="http://srv.painel.live:8080/images/ead18e3b92ea0b03656d3875f1a3ff63.png" group-title="RECORD TV",RECORD BELEM DO PARÁ FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109695.m3u8
+#EXTINF:-1 tvg-id="record.bahia.br" tvg-name="RECORD CABRALIA HD" tvg-logo="http://srv.painel.live:8080/images/674ebd702dc8205d5181817e81eba594.png" group-title="RECORD TV",RECORD CABRALIA HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109700.m3u8
+#EXTINF:-1 tvg-id="record.bahia.br" tvg-name="RECORD CABRALIA FULLHD" tvg-logo="http://srv.painel.live:8080/images/674ebd702dc8205d5181817e81eba594.png" group-title="RECORD TV",RECORD CABRALIA FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109699.m3u8
+#EXTINF:-1 tvg-id="record.goias.br" tvg-name="RECORD GOIAS HD" tvg-logo="http://srv.painel.live:8080/images/08beead15a266148555af37857d710d1.png" group-title="RECORD TV",RECORD GOIAS HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109702.m3u8
+#EXTINF:-1 tvg-id="record.goias.br" tvg-name="RECORD GOIAS FULLHD" tvg-logo="http://srv.painel.live:8080/images/08beead15a266148555af37857d710d1.png" group-title="RECORD TV",RECORD GOIAS FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109701.m3u8
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD INTERIOR SP HD" tvg-logo="http://srv.painel.live:8080/images/4683b779951f420ab4d7d2164d00b521.png" group-title="RECORD TV",RECORD INTERIOR SP HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109694.m3u8
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD INTERIOR SP FULLHD" tvg-logo="http://srv.painel.live:8080/images/4683b779951f420ab4d7d2164d00b521.png" group-title="RECORD TV",RECORD INTERIOR SP FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109693.m3u8
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD ITAPOAN HD" tvg-logo="http://srv.painel.live:8080/images/7cc4639095834b94688b2cbb4b67ca60.png" group-title="RECORD TV",RECORD ITAPOAN HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/115443.m3u8
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD ITAPOAN FULLHD" tvg-logo="http://srv.painel.live:8080/images/7cc4639095834b94688b2cbb4b67ca60.png" group-title="RECORD TV",RECORD ITAPOAN FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/115442.m3u8
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD LITORAL VALE DO PARNAÍBA HD" tvg-logo="http://srv.painel.live:8080/images/8cd399e91aa11a91d82f5afba26b74e7.png" group-title="RECORD TV",RECORD LITORAL VALE DO PARNAÍBA HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/115441.m3u8
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD LITORAL VALE DO PARNAÍBA FULLHD" tvg-logo="http://srv.painel.live:8080/images/8cd399e91aa11a91d82f5afba26b74e7.png" group-title="RECORD TV",RECORD LITORAL VALE DO PARNAÍBA FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/115440.m3u8
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD NEWS HD" tvg-logo="http://srv.painel.live:8080/images/1bfea7fccbde328dabebe54e5da6c17d.png" group-title="NOTICIAS",RECORD NEWS HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46434.m3u8
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD NEWS FULLHD" tvg-logo="http://srv.painel.live:8080/images/1bfea7fccbde328dabebe54e5da6c17d.png" group-title="NOTICIAS",RECORD NEWS FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46625.m3u8
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD PARANAÍBA DE UBERLÂNDIA FULLHD" tvg-logo="http://srv.painel.live:8080/images/5a76f74a27b8253099b04a70b9a1ce33.png" group-title="RECORD TV",RECORD PARANAÍBA DE UBERLÂNDIA FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109683.m3u8
+#EXTINF:-1 tvg-id="record.rio.br" tvg-name="RECORD RIO HD" tvg-logo="http://srv.painel.live:8080/images/aacf52acffaa477319e845cb0350d51b.png" group-title="RECORD TV",RECORD RIO HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109686.m3u8
+#EXTINF:-1 tvg-id="record.rio.br" tvg-name="RECORD RIO FULLHD" tvg-logo="http://srv.painel.live:8080/images/aacf52acffaa477319e845cb0350d51b.png" group-title="RECORD TV",RECORD RIO FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109685.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RIO PRETO HD" tvg-logo="http://srv.painel.live:8080/images/eeb4be2489654e90b075c2c8cd48e0e6.png" group-title="RECORD TV",RECORD RIO PRETO HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109692.m3u8
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD RIO PRETO FULLHD" tvg-logo="http://srv.painel.live:8080/images/eeb4be2489654e90b075c2c8cd48e0e6.png" group-title="RECORD TV",RECORD RIO PRETO FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109691.m3u8
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD RJ INTERIOR HD" tvg-logo="http://srv.painel.live:8080/images/cc565e1e3ea893557d52970588c73666.png" group-title="RECORD TV",RECORD RJ INTERIOR HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109698.m3u8
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD RJ INTERIOR FULLHD" tvg-logo="http://srv.painel.live:8080/images/cc565e1e3ea893557d52970588c73666.png" group-title="RECORD TV",RECORD RJ INTERIOR FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109697.m3u8
+#EXTINF:-1 tvg-id="record.rs.br" tvg-name="RECORD RS HD" tvg-logo="http://srv.painel.live:8080/images/93105e88df5c56930d857590a8100600.png" group-title="RECORD TV",RECORD RS HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46437.m3u8
+#EXTINF:-1 tvg-id="record.porto.alegre.br" tvg-name="RECORD RS FULLHD" tvg-logo="http://srv.painel.live:8080/images/93105e88df5c56930d857590a8100600.png" group-title="RECORD TV",RECORD RS FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/105425.m3u8
+#EXTINF:-1 tvg-id="recordtv.sao.paulo.br" tvg-name="RECORD SP HD" tvg-logo="http://srv.painel.live:8080/images/feab98dd6b0f0075f872f15ce66988f1.png" group-title="RECORD TV",RECORD SP HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/105257.m3u8
+#EXTINF:-1 tvg-id="recordtv.sao.paulo.br" tvg-name="RECORD SP FULLHD" tvg-logo="http://srv.painel.live:8080/images/feab98dd6b0f0075f872f15ce66988f1.png" group-title="RECORD TV",RECORD SP FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/105256.m3u8
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD TV THATHI CAMPINAS HD" tvg-logo="http://srv.painel.live:8080/images/238c8e14ba0a5e69df49a06bde062a2e.png" group-title="RECORD TV",RECORD TV THATHI CAMPINAS HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109690.m3u8
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD TV VILA REAL HD" tvg-logo="http://srv.painel.live:8080/images/1162bee154a8e2931a67eb63dfa13b45.png" group-title="RECORD TV",RECORD TV VILA REAL HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109688.m3u8
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD TV VILA REAL FULLHD" tvg-logo="http://srv.painel.live:8080/images/1162bee154a8e2931a67eb63dfa13b45.png" group-title="RECORD TV",RECORD TV VILA REAL FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109687.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RED BULL TV HD" tvg-logo="http://logo.painel.live/redbull.png" group-title="ESPORTE",RED BULL TV HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109816.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RED BULL TV FULLHD" tvg-logo="http://logo.painel.live/redbull.png" group-title="ESPORTE",RED BULL TV FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104176.m3u8
+#EXTINF:-1 tvg-id="rede.familia.br" tvg-name="REDE FAMILIA HD" tvg-logo="http://login.iptvcompany.org/logo/redefamilia.png" group-title="RELIGIOSOS",REDE FAMILIA HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/90028.m3u8
+#EXTINF:-1 tvg-id="rede.familia.br" tvg-name="REDE FAMILIA FULLHD" tvg-logo="http://login.iptvcompany.org/logo/redefamilia.png" group-title="RELIGIOSOS",REDE FAMILIA FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/90001.m3u8
+#EXTINF:-1 tvg-id="rede.gospel.br" tvg-name="REDE GOSPEL FULLHD" tvg-logo="http://login.iptvcompany.org/logo/redegospel.png" group-title="RELIGIOSOS",REDE GOSPEL FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE MINAS" tvg-logo="http://srv.painel.live:8080/images/ee02ce52b5722501bb7cc0c8a79bf97b.png" group-title="ABERTOS",REDE MINAS
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109814.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE MOSAICO HD" tvg-logo="http://logo.painel.live/v54QSnl.png" group-title="VARIEDADES",REDE MOSAICO HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116755.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE PREMIUM TV HD" tvg-logo="https://srv.painel.live/logo/hqdefault.jpg" group-title="ABERTOS",REDE PREMIUM TV HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109819.m3u8
+#EXTINF:-1 tvg-id="rede.seculo.21.br" tvg-name="REDE SECULO 21 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b4/Rede_S%C3%A9culo_21.jpg" group-title="RELIGIOSOS",REDE SECULO 21 HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/89945.m3u8
+#EXTINF:-1 tvg-id="rede.super.br" tvg-name="REDE SUPER HD" tvg-logo="https://vignette.wikia.nocookie.net/tvpediabrasil/images/b/b0/Redesuper.png/revision/latest/top-crop/width/360/height/450?cb=20190325212838&path-prefix=pt-br" group-title="RELIGIOSOS",REDE SUPER HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/90029.m3u8
+#EXTINF:-1 tvg-id="rede.super.br" tvg-name="REDE SUPER FULLHD" tvg-logo="https://vignette.wikia.nocookie.net/tvpediabrasil/images/b/b0/Redesuper.png/revision/latest/top-crop/width/360/height/450?cb=20190325212838&path-prefix=pt-br" group-title="RELIGIOSOS",REDE SUPER FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/84072.m3u8
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV! HD" tvg-logo="http://srv.painel.live:8080/images/6b5f525ca58de54ae107f1d8afecf134.png" group-title="ABERTOS",REDE TV! HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46443.m3u8
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV! FULLHD" tvg-logo="http://srv.painel.live:8080/images/6b5f525ca58de54ae107f1d8afecf134.png" group-title="ABERTOS",REDE TV! FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/47071.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA" tvg-logo="http://srv.painel.live:8080/images/ae081082e12d6f0631dea5e748033ab1.png" group-title="RELIGIOSOS",REDE VIDA
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/117043.m3u8
+#EXTINF:-1 tvg-id="rede.vida.br" tvg-name="REDE VIDA FULLHD" tvg-logo="http://logo.painel.live/redevida.png" group-title="RELIGIOSOS",REDE VIDA FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46698.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RETRÔ CARTOON" tvg-logo="https://srv.painel.live/logo/cartoonretro-185x200.png" group-title="INFANTIS",RETRÔ CARTOON
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109821.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RSC TV HD" tvg-logo="http://srv.painel.live:8080/images/0ad99ff9dfc5ac0c104f9ce20233d20f.png" group-title="ABERTOS",RSC TV HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/117049.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RT ESPANHOL FULLHD" tvg-logo="http://srv.painel.live:8080/images/cb7602cfbbb4da6b80b47c9d142ff4a4.png" group-title="INTERNACIONAIS",RT ESPANHOL FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/97524.m3u8
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT ITAPOAN HD" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.png" group-title="SBT",SBT ITAPOAN HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116310.m3u8
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT ITAPOAN FULLHD" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.png" group-title="SBT",SBT ITAPOAN FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116311.m3u8
+#EXTINF:-1 tvg-id="rede.massa.br" tvg-name="SBT REDE MASSA  HD" tvg-logo="http://srv.painel.live:8080/images/acfc7a5d9e14f181c90c95f9f345e2cc.png" group-title="SBT",SBT REDE MASSA  HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109826.m3u8
+#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RIO HD" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.png" group-title="SBT",SBT RIO HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/115347.m3u8
+#EXTINF:-1 tvg-id="sbt.rio.br" tvg-name="SBT RIO FULLHD" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.png" group-title="SBT",SBT RIO FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/115348.m3u8
+#EXTINF:-1 tvg-id="sbt.rs.br" tvg-name="SBT RS HD" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.png" group-title="SBT",SBT RS HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109749.m3u8
+#EXTINF:-1 tvg-id="sbt.rs.br" tvg-name="SBT RS FULLHD" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.png" group-title="SBT",SBT RS FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/47059.m3u8
+#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP HD" tvg-logo="http://srv.painel.live:8080/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="SBT",SBT SP HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46449.m3u8
+#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP FULLHD" tvg-logo="http://srv.painel.live:8080/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="SBT",SBT SP FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46627.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SERIE C (MC)" tvg-logo="http://login.iptvcompany.org/logo/seriec.png" group-title="ESPORTE",SERIE C (MC)
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/106052.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SESC TV HD" tvg-logo="http://logo.painel.live/SEXcD8Z.png" group-title="ABERTOS",SESC TV HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116756.m3u8
+#EXTINF:-1 tvg-id="sextreme.br" tvg-name="SEXTREME FULLHD" tvg-logo="http://srv.painel.live:8080/images/d680f580aa3eeb3dc9b7fb9456cc76e3.png" group-title="ADULTOS",SEXTREME FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/118681.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEXYKPOP TV" tvg-logo="http://logo.painel.live/kpop.png" group-title="INTERNACIONAIS",SEXYKPOP TV
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109813.m3u8
+#EXTINF:-1 tvg-id="shoptime.br" tvg-name="SHOPTIME HD" tvg-logo="http://srv.painel.live:8080/images/defc2ca91b5c53912c883c53c1ae3a8e.png" group-title="ABERTOS",SHOPTIME HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/118592.m3u8
+#EXTINF:-1 tvg-id="shoptime.br" tvg-name="SHOPTIME FULLHD" tvg-logo="http://srv.painel.live:8080/images/defc2ca91b5c53912c883c53c1ae3a8e.png" group-title="ABERTOS",SHOPTIME FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/118593.m3u8
+#EXTINF:-1 tvg-id="smithsonian.br" tvg-name="SMITHSONIAN HD" tvg-logo="http://srv.painel.live:8080/images/5f94fcfb02ab29a4e46404e3b0b54f42.png" group-title="DOCUMENTARIOS",SMITHSONIAN HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/118589.m3u8
+#EXTINF:-1 tvg-id="smithsonian.br" tvg-name="SMITHSONIAN FULLHD" tvg-logo="http://srv.painel.live:8080/images/5f94fcfb02ab29a4e46404e3b0b54f42.png" group-title="DOCUMENTARIOS",SMITHSONIAN FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/118588.m3u8
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD" tvg-logo="http://srv.painel.live:8080/images/b9e857e49c14d3dceb53c320dedda2af.png" group-title="FILMES & SERIES",SPACE HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46322.m3u8
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE FULLHD" tvg-logo="http://srv.painel.live:8080/images/b9e857e49c14d3dceb53c320dedda2af.png" group-title="FILMES & SERIES",SPACE FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46628.m3u8
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="http://srv.painel.live:8080/images/14b8716e7b8af5d6a26fd14cef4cb724.png" group-title="ESPORTE",SPORTV 2 HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/115467.m3u8
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 FULLHD" tvg-logo="http://srv.painel.live:8080/images/14b8716e7b8af5d6a26fd14cef4cb724.png" group-title="ESPORTE",SPORTV 2 FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46629.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="SPORTV 3 HD" tvg-logo="http://srv.painel.live:8080/images/4f438b5e3109dbeb76b626a5c18eb7fb.png" group-title="ESPORTE",SPORTV 3 HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46419.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="SPORTV 3 FULLHD" tvg-logo="http://srv.painel.live:8080/images/4f438b5e3109dbeb76b626a5c18eb7fb.png" group-title="ESPORTE",SPORTV 3 FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46630.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 4 HD" tvg-logo="https://4.bp.blogspot.com/-6PAxnx2KIL8/WRztWqRfVKI/AAAAAAAA5kY/WH3cRpu__rIsX7Bpkh5ZjOLjP3PsSWBAQCLcB/s640/sportv4.png" group-title="ESPORTE",SPORTV 4 HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116508.m3u8
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD" tvg-logo="http://srv.painel.live:8080/images/06948293ed8b8ba9f19713335442bd00.png" group-title="ESPORTE",SPORTV HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116297.m3u8
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="http://srv.painel.live:8080/images/4f5cbd70d64c2f7b35fd9ee2a544e87c.png" group-title="FILMES & SERIES",STUDIO UNIVERSAL HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46324.m3u8
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL FULLHD" tvg-logo="http://srv.painel.live:8080/images/4f5cbd70d64c2f7b35fd9ee2a544e87c.png" group-title="FILMES & SERIES",STUDIO UNIVERSAL FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46632.m3u8
+#EXTINF:-1 tvg-id="fox.br" tvg-name="ST✩R CHANNEL HD" tvg-logo="http://srv.painel.live:8080/images/34d7b91c978bcfd4477072279e5f3f93.png" group-title="FILMES & SERIES",ST✩R CHANNEL HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46305.m3u8
+#EXTINF:-1 tvg-id="fox.br" tvg-name="ST✩R CHANNEL FULLHD" tvg-logo="http://srv.painel.live:8080/images/34d7b91c978bcfd4477072279e5f3f93.png" group-title="FILMES & SERIES",ST✩R CHANNEL FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46585.m3u8
+#EXTINF:-1 tvg-id="fox.premium.1.br" tvg-name="ST✩R HITS 1 HD" tvg-logo="http://srv.painel.live:8080/images/1daa1290b5086b6beb57fd73cfe84286.png" group-title="FILMES & SERIES",ST✩R HITS 1 HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46308.m3u8
+#EXTINF:-1 tvg-id="fox.premium.1.br" tvg-name="ST✩R HITS 1 FULLHD" tvg-logo="http://srv.painel.live:8080/images/1daa1290b5086b6beb57fd73cfe84286.png" group-title="FILMES & SERIES",ST✩R HITS 1 FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46587.m3u8
+#EXTINF:-1 tvg-id="fox.premium.2.br" tvg-name="ST✩R HITS 2 HD" tvg-logo="http://srv.painel.live:8080/images/79e6305c8eac27b27e0ff73b8f82cded.png" group-title="FILMES & SERIES",ST✩R HITS 2 HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46310.m3u8
+#EXTINF:-1 tvg-id="fox.premium.2.br" tvg-name="St✩r Hits 2 FULLHD" tvg-logo="http://srv.painel.live:8080/images/79e6305c8eac27b27e0ff73b8f82cded.png" group-title="FILMES & SERIES",St✩r Hits 2 FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46588.m3u8
+#EXTINF:-1 tvg-id="fox.life.br" tvg-name="ST✩R LIFE HD" tvg-logo="http://srv.painel.live:8080/images/9c79652da6e2982a8d99b089f2bdbba9.png" group-title="FILMES & SERIES",ST✩R LIFE HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46306.m3u8
+#EXTINF:-1 tvg-id="fox.life.br" tvg-name="ST✩R LIFE FULLHD" tvg-logo="http://srv.painel.live:8080/images/9c79652da6e2982a8d99b089f2bdbba9.png" group-title="FILMES & SERIES",ST✩R LIFE FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46586.m3u8
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY HD" tvg-logo="http://srv.painel.live:8080/images/b0143d34272f38cf51f79d263dadcfa6.png" group-title="FILMES & SERIES",SYFY HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46326.m3u8
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY FULLHD" tvg-logo="http://srv.painel.live:8080/images/b0143d34272f38cf51f79d263dadcfa6.png" group-title="FILMES & SERIES",SYFY FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46633.m3u8
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS HD" tvg-logo="http://logo.painel.live/tbs.png" group-title="VARIEDADES",TBS HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/74154.m3u8
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS FULLHD" tvg-logo="http://logo.painel.live/tbs.png" group-title="VARIEDADES",TBS FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/74153.m3u8
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="http://srv.painel.live:8080/images/7fc3ca00c0ba849b962b2a125cebb4fb.png" group-title="FILMES & SERIES",TCM HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/90024.m3u8
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM FULLHD" tvg-logo="http://srv.painel.live:8080/images/7fc3ca00c0ba849b962b2a125cebb4fb.png" group-title="FILMES & SERIES",TCM FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109839.m3u8
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION HD" tvg-logo="http://srv.painel.live:8080/images/d8ca31dafc2486af79ceabbd87bbf04f.png" group-title="TELECINE & HBO",TELECINE ACTION HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46545.m3u8
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION FULLHD" tvg-logo="http://srv.painel.live:8080/images/d8ca31dafc2486af79ceabbd87bbf04f.png" group-title="TELECINE & HBO",TELECINE ACTION FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46634.m3u8
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT HD" tvg-logo="http://srv.painel.live:8080/images/17da371a31de96159abb9034b30a7436.png" group-title="TELECINE & HBO",TELECINE CULT HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46547.m3u8
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT FULLHD" tvg-logo="http://srv.painel.live:8080/images/17da371a31de96159abb9034b30a7436.png" group-title="TELECINE & HBO",TELECINE CULT FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46635.m3u8
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN HD" tvg-logo="http://srv.painel.live:8080/images/4f656065c706ac6339acc7ef8f193b4e.png" group-title="TELECINE & HBO",TELECINE FUN HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46549.m3u8
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN FULLHD" tvg-logo="http://srv.painel.live:8080/images/4f656065c706ac6339acc7ef8f193b4e.png" group-title="TELECINE & HBO",TELECINE FUN FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46636.m3u8
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA FULLHD" tvg-logo="http://srv.painel.live:8080/images/dff24dadaf61e8819b8b6797ca6c523f.png" group-title="TELECINE & HBO",TELECINE PIPOCA FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46637.m3u8
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://srv.painel.live:8080/images/fb51e072c9a858980a4d7ad1871eec05.png" group-title="TELECINE & HBO",TELECINE PREMIUM HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46553.m3u8
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM FULLHD" tvg-logo="http://srv.painel.live:8080/images/fb51e072c9a858980a4d7ad1871eec05.png" group-title="TELECINE & HBO",TELECINE PREMIUM FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46638.m3u8
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="http://srv.painel.live:8080/images/4712d884f12fb7430a58a8c35a9c41c3.png" group-title="TELECINE & HBO",TELECINE TOUCH HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46555.m3u8
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH FULLHD" tvg-logo="http://srv.painel.live:8080/images/4712d884f12fb7430a58a8c35a9c41c3.png" group-title="TELECINE & HBO",TELECINE TOUCH FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46639.m3u8
+#EXTINF:-1 tvg-id="terra.viva.br" tvg-name="TERRA VIVA HD" tvg-logo="http://srv.painel.live:8080/images/21fd646790ed18dbeb9b35bb0ae1da7b.png" group-title="ABERTOS",TERRA VIVA HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/100712.m3u8
+#EXTINF:-1 tvg-id="terra.viva.br" tvg-name="TERRA VIVA FULLHD" tvg-logo="http://srv.painel.live:8080/images/21fd646790ed18dbeb9b35bb0ae1da7b.png" group-title="ABERTOS",TERRA VIVA FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/100713.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLN NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/TLN_Network.svg/1200px-TLN_Network.svg.png" group-title="NOVELAS MEXICANAS",TLN NETWORK HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116792.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLN NETWORK FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/TLN_Network.svg/1200px-TLN_Network.svg.png" group-title="NOVELAS MEXICANAS",TLN NETWORK FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116791.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT ESTADIO 1" tvg-logo="http://srv.painel.live:8080/images/4eacbfc385e39d0aaec3721fc35f01b1.png" group-title="ESTADIO TNT SPORTS",TNT ESTADIO 1
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/106209.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT ESTADIO 2" tvg-logo="http://srv.painel.live:8080/images/4eacbfc385e39d0aaec3721fc35f01b1.png" group-title="ESTADIO TNT SPORTS",TNT ESTADIO 2
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/106210.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT ESTADIO 3" tvg-logo="http://srv.painel.live:8080/images/4eacbfc385e39d0aaec3721fc35f01b1.png" group-title="ESTADIO TNT SPORTS",TNT ESTADIO 3
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/106211.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT ESTADIO 4" tvg-logo="http://srv.painel.live:8080/images/4eacbfc385e39d0aaec3721fc35f01b1.png" group-title="ESTADIO TNT SPORTS",TNT ESTADIO 4
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/106212.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT ESTADIO 5" tvg-logo="http://srv.painel.live:8080/images/4eacbfc385e39d0aaec3721fc35f01b1.png" group-title="ESTADIO TNT SPORTS",TNT ESTADIO 5
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/106213.m3u8
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="http://srv.painel.live:8080/images/b5fca8d1c503023a2684a896f0db3a7e.png" group-title="FILMES & SERIES",TNT HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46329.m3u8
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FULLHD" tvg-logo="http://srv.painel.live:8080/images/b5fca8d1c503023a2684a896f0db3a7e.png" group-title="FILMES & SERIES",TNT FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46640.m3u8
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES HD" tvg-logo="http://srv.painel.live:8080/images/3c64d527cda9736fbeb9a4cb5af36744.png" group-title="FILMES & SERIES",TNT SERIES HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46331.m3u8
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES FULLHD" tvg-logo="http://srv.painel.live:8080/images/3c64d527cda9736fbeb9a4cb5af36744.png" group-title="FILMES & SERIES",TNT SERIES FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46641.m3u8
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST FULLHD" tvg-logo="http://logo.painel.live/tooncast.png" group-title="INFANTIS",TOONCAST FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46389.m3u8
+#EXTINF:-1 tvg-id="travel.box.brazil.br" tvg-name="TRAVEL BOX BRASIL HD" tvg-logo="http://logo.painel.live/TRAVELBOX.png" group-title="VARIEDADES",TRAVEL BOX BRASIL HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109848.m3u8
+#EXTINF:-1 tvg-id="travel.box.brazil.br" tvg-name="TRAVEL BOX BRASIL FULLHD" tvg-logo="http://logo.painel.live/TRAVELBOX.png" group-title="VARIEDADES",TRAVEL BOX BRASIL FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/47054.m3u8
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="TRU TV HD" tvg-logo="http://logo.painel.live/trutv.png" group-title="VARIEDADES",TRU TV HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/115220.m3u8
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="TRU TV FULLHD" tvg-logo="http://logo.painel.live/trutv.png" group-title="VARIEDADES",TRU TV FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/115221.m3u8
+#EXTINF:-1 tvg-id="record.br" tvg-name="TV ACRITICA HD" tvg-logo="http://srv.painel.live/logo/acritica.png" group-title="ABERTOS",TV ACRITICA HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/115446.m3u8
+#EXTINF:-1 tvg-id="record.br" tvg-name="TV ACRITICA FULLHD" tvg-logo="http://srv.painel.live/logo/acritica.png" group-title="ABERTOS",TV ACRITICA FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/115445.m3u8
+#EXTINF:-1 tvg-id="tv.aparecida.br" tvg-name="TV APARECIDA FULLHD" tvg-logo="http://logo.painel.live/aparecida.png" group-title="RELIGIOSOS",TV APARECIDA FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46700.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV ARACATI HD" tvg-logo="https://srv.painel.live/logo/screen-0.jpg" group-title="ABERTOS",TV ARACATI HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109825.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV ASSEMBLEIA" tvg-logo="https://srv.painel.live/logo/tvalrsnew.png" group-title="ABERTOS",TV ASSEMBLEIA
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109850.m3u8
+#EXTINF:-1 tvg-id="tv.brasil.br" tvg-name="TV BRASIL FULLHD" tvg-logo="http://srv.painel.live:8080/images/fca4654ab164ecdf7fc9d5fb77f2444a.png" group-title="ABERTOS",TV BRASIL FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/100717.m3u8
+#EXTINF:-1 tvg-id="tv.camara.br" tvg-name="TV CAMARA " tvg-logo="http://srv.painel.live:8080/images/13d4b6bf8e09c71573cdc60130ce2435.png" group-title="ABERTOS",TV CAMARA 
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/117046.m3u8
+#EXTINF:-1 tvg-id="tv.camara.br" tvg-name="TV CAMARA FULLHD" tvg-logo="http://srv.painel.live:8080/images/13d4b6bf8e09c71573cdc60130ce2435.png" group-title="ABERTOS",TV CAMARA FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/100716.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV CANDIDÉS HD" tvg-logo="http://srv.painel.live:8080/images/95707694cae2aa07983b4d1078ea8b81.png" group-title="ABERTOS",TV CANDIDÉS HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109832.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV CARIOCA NET" tvg-logo="http://logo.painel.live/cariocanet.png" group-title="ABERTOS",TV CARIOCA NET
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/106104.m3u8
+#EXTINF:-1 tvg-id="tv.escola.br" tvg-name="TV ESCOLA FULLHD" tvg-logo="http://logo.painel.live/tvescola.png" group-title="ABERTOS",TV ESCOLA FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/47063.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/TV_Evangelizar_logo_2019.png/200px-TV_Evangelizar_logo_2019.png" group-title="RELIGIOSOS",TV EVANGELIZAR
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116722.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV FLORIDA USA HD" tvg-logo="http://srv.painel.live:8080/images/bd2cdc366f7b07f38b684c2bfa0d9f04.png" group-title="INTERNACIONAIS",TV FLORIDA USA HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/118317.m3u8
+#EXTINF:-1 tvg-id="tv.gazeta.br" tvg-name="TV GAZETA HD" tvg-logo="http://srv.painel.live:8080/images/93f3f8456217740578e7c109767d6475.png" group-title="ABERTOS",TV GAZETA HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/90023.m3u8
+#EXTINF:-1 tvg-id="tv.gazeta.br" tvg-name="TV GAZETA FULLHD" tvg-logo="http://srv.painel.live:8080/images/93f3f8456217740578e7c109767d6475.png" group-title="ABERTOS",TV GAZETA FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/90022.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV GIDEÔES HD" tvg-logo="https://srv.painel.live/logo/GIDEOES.png" group-title="RELIGIOSOS",TV GIDEÔES HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109835.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV IRACEMA HD" tvg-logo="http://srv.painel.live:8080/images/4af52202f77beb11ba59ce2056aa7878.png" group-title="ABERTOS",TV IRACEMA HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109833.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV JAPI" tvg-logo="http://srv.painel.live:8080/images/8d7eecbb2c298e8dc11e847ccf0c2a9e.png" group-title="ABERTOS",TV JAPI
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109812.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV JORNAL  DO NORDESTE HD" tvg-logo="http://srv.painel.live:8080/images/7aa3c47d6f7ae08cf815265ba45439ce.png" group-title="ABERTOS",TV JORNAL  DO NORDESTE HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109827.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV MANCHETE" tvg-logo="http://logo.painel.live/manchete.png" group-title="ABERTOS",TV MANCHETE
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109829.m3u8
+#EXTINF:-1 tvg-id="tv.mar.alagoas.br" tvg-name="TV MAR" tvg-logo="http://logo.painel.live/tvmar.png" group-title="ABERTOS",TV MAR
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109811.m3u8
+#EXTINF:-1 tvg-id="tv.novo.tempo.br" tvg-name="TV NOVO TEMPO HD" tvg-logo="http://logo.painel.live/novotempo.png" group-title="RELIGIOSOS",TV NOVO TEMPO HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/92634.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO" tvg-logo="http://srv.painel.live:8080/images/9e5fb4749e981d07c93372780a5c1285.png" group-title="RELIGIOSOS",TV PAI ETERNO
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/117044.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO FULLHD" tvg-logo="http://logo.painel.live/paieterno.png" group-title="RELIGIOSOS",TV PAI ETERNO FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/105424.m3u8
+#EXTINF:-1 tvg-id="tv.pampa.br" tvg-name="TV PAMPA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logotipo_da_TV_Pampa.png" group-title="ABERTOS",TV PAMPA HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/97519.m3u8
+#EXTINF:-1 tvg-id="tv.pampa.br" tvg-name="TV PAMPA HD FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logotipo_da_TV_Pampa.png" group-title="ABERTOS",TV PAMPA HD FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/97520.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV PROMESSAS HD" tvg-logo="http://logo.painel.live/YfJpF9v.png" group-title="RELIGIOSOS",TV PROMESSAS HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116746.m3u8
+#EXTINF:-1 tvg-id="ra.tim.bum.br" tvg-name="TV RA TIM BUM HD" tvg-logo="http://srv.painel.live:8080/images/2f2442cf355274e041d6705d9a89dc11.png" group-title="INFANTIS",TV RA TIM BUM HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/103214.m3u8
+#EXTINF:-1 tvg-id="tv.ra.tim.bum.br" tvg-name="TV RA TIM BUM FULLHD" tvg-logo="http://srv.painel.live:8080/images/2f2442cf355274e041d6705d9a89dc11.png" group-title="INFANTIS",TV RA TIM BUM FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46391.m3u8
+#EXTINF:-1 tvg-id="tv.senado.br" tvg-name="TV SENADO HD" tvg-logo="http://srv.painel.live:8080/images/0b5d06f20f95841a72152a3b1eecca01.png" group-title="ABERTOS",TV SENADO HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/91763.m3u8
+#EXTINF:-1 tvg-id="tv.senado.br" tvg-name="TV SENADO FULLHD" tvg-logo="http://srv.painel.live:8080/images/0b5d06f20f95841a72152a3b1eecca01.png" group-title="ABERTOS",TV SENADO FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/91761.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV SERIES" tvg-logo="http://logo.painel.live/tvseries.png" group-title="FILMES & SERIES",TV SERIES
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109894.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV URSO POLAR" tvg-logo="http://logo.painel.live/tvurso.png" group-title="VARIEDADES",TV URSO POLAR
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/109828.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV WA HD" tvg-logo="http://logo.painel.live/tv_wa.png" group-title="VARIEDADES",TV WA HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/115458.m3u8
+#EXTINF:-1 tvg-id="tv5.br" tvg-name="TV5 MONDE" tvg-logo="http://logo.painel.live/TV5monde.png" group-title="INTERNACIONAIS",TV5 MONDE
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/104238.m3u8
+#EXTINF:-1 tvg-id="tve.br" tvg-name="TVE HD" tvg-logo="http://logo.painel.live/tve.png" group-title="VARIEDADES",TVE HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/89944.m3u8
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="TVE FULLHD" tvg-logo="http://logo.painel.live/tve.png" group-title="VARIEDADES",TVE FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/105258.m3u8
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://srv.painel.live:8080/images/d133306ba08aa09944b93fb11271afd2.png" group-title="FILMES & SERIES",UNIVERSAL CHANNEL HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46333.m3u8
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL CHANNEL FULLHD" tvg-logo="http://srv.painel.live:8080/images/d133306ba08aa09944b93fb11271afd2.png" group-title="FILMES & SERIES",UNIVERSAL CHANNEL FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46643.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UP CHANNEL HD" tvg-logo="http://logo.painel.live/tLQDkeU.png" group-title="VARIEDADES",UP CHANNEL HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116750.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="URBAN DOCS HD" tvg-logo="http://logo.painel.live/urbandocs.png" group-title="DOCUMENTARIOS",URBAN DOCS HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/115450.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="URBAN KIDS HD" tvg-logo="http://logo.painel.live/urbankids.png" group-title="INFANTIS",URBAN KIDS HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/115453.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="URBAN MOVIES HD" tvg-logo="http://logo.painel.live/urbanmovies.png" group-title="FILMES & SERIES",URBAN MOVIES HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/115452.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="URBAN SERIES HD" tvg-logo="http://logo.painel.live/urbanseries.png" group-title="FILMES & SERIES",URBAN SERIES HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/115451.m3u8
+#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA HD" tvg-logo="http://srv.painel.live:8080/images/af680e5eaff7881796e18ebd1629269f.png" group-title="VARIEDADES",VIVA HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46455.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="VIVA FULLHD" tvg-logo="http://srv.painel.live:8080/images/af680e5eaff7881796e18ebd1629269f.png" group-title="VARIEDADES",VIVA FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46644.m3u8
+#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER  CHANNEL HD" tvg-logo="http://srv.painel.live:8080/images/6dc8b343e5b479075fbf6bbae88a1aee.png" group-title="FILMES & SERIES",WARNER  CHANNEL HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46335.m3u8
+#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL FULLHD" tvg-logo="http://srv.painel.live:8080/images/6dc8b343e5b479075fbf6bbae88a1aee.png" group-title="FILMES & SERIES",WARNER CHANNEL FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46645.m3u8
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO HD" tvg-logo="http://srv.painel.live:8080/images/09952ba1c71abebb900e86e2926c33be.png" group-title="VARIEDADES",WOOHOO HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/46505.m3u8
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO FULLHD" tvg-logo="http://srv.painel.live:8080/images/09952ba1c71abebb900e86e2926c33be.png" group-title="VARIEDADES",WOOHOO FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/103610.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="YES LIFE HD" tvg-logo="http://logo.painel.live/xHVpqpw.png" group-title="VARIEDADES",YES LIFE HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/116749.m3u8
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZOOMO HD" tvg-logo="http://srv.painel.live:8080/images/5f201d40ccb5422eba7a52505e1ab4b7.png" group-title="INFANTIS",ZOOMO HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/115222.m3u8
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZOOMO FULLHD" tvg-logo="http://srv.painel.live:8080/images/5f201d40ccb5422eba7a52505e1ab4b7.png" group-title="INFANTIS",ZOOMO FULLHD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/115223.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Menino da Porteira (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rcFJATiCHQZ9iuyRPanoAV1zXMR.jpg" group-title="Nacionais",O Menino da Porteira (2009)
+http://login.companyiptv.com.br:8080/movie/admin/v4r5p5wr/104611.mkv
+#EXTINF:-1 tvg-id="" tvg-name="RADIO ITATIAIA VALE DO AÇO " tvg-logo="http://srv.painel.live:8080/images/8570ee4874872931a12afef7143512ca.jpg" group-title="RADIOS 24H",RADIO ITATIAIA VALE DO AÇO 
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/49736.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN FM SP" tvg-logo="http://srv.painel.live:8080/images/3f854012e1b806e720f97ae48ab6b190.jpg" group-title="RADIOS 24H",JOVEM PAN FM SP
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/49739.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JAZZ" tvg-logo="http://srv.painel.live:8080/images/a8ec70805bc1fa03cdecd2253d75f4a9.png" group-title="RADIOS 24H",JAZZ
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/49741.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO BRASIL HITS" tvg-logo="http://srv.painel.live:8080/images/aec1312c2ef033d8763afd2a01e32cc8.jpg" group-title="RADIOS 24H",RADIO BRASIL HITS
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/49742.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO COCA-COLA FM" tvg-logo="http://srv.painel.live:8080/images/d91d9b558995b8099ca1cf7c94950e27.jpg" group-title="RADIOS 24H",RADIO COCA-COLA FM
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/49745.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO TV GOSPEL" tvg-logo="http://srv.painel.live:8080/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="RADIOS 24H",RADIO TV GOSPEL
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/49749.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO BH FM" tvg-logo="http://srv.painel.live:8080/images/4b51e447649ebb92b19b00b89394ef98.jpg" group-title="RADIOS 24H",RADIO BH FM
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/49752.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO BOSSA NOVA" tvg-logo="http://srv.painel.live:8080/images/602eb25914c5362ac4feb48f7e1ae998.jpg" group-title="RADIOS 24H",RADIO BOSSA NOVA
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/56697.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REGGAETON HITS" tvg-logo="http://srv.painel.live:8080/images/4f32e27dbdf2015781b968b93d96c46f.jpg" group-title="RADIOS 24H",REGGAETON HITS
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/56702.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO TOP SERTANEJO" tvg-logo="http://srv.painel.live:8080/images/84ebf4c633e1d8fa39b6921708d8ed82.png" group-title="RADIOS 24H",RADIO TOP SERTANEJO
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/56712.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO GAUCHONA" tvg-logo="http://srv.painel.live:8080/images/eb0145a9cbbb0f27c397ae77b028112f.jpg" group-title="RADIOS 24H",RADIO GAUCHONA
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/56714.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO CLASSICAS" tvg-logo="http://srv.painel.live:8080/images/24c1af1f7a7e7801fa4947886cbd2037.png" group-title="RADIOS 24H",RADIO CLASSICAS
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/56724.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO PALMEIRA FM" tvg-logo="http://srv.painel.live:8080/images/f86fd28cefa79c20ba4d2d894208cf4d.jpg" group-title="RADIOS 24H",RADIO PALMEIRA FM
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/56725.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO GAUCHA" tvg-logo="http://srv.painel.live:8080/images/9fb3d1f81996bf988f62e23029de700d.png" group-title="RADIOS 24H",RADIO GAUCHA
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/56726.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO BANDEIRANTES  AM" tvg-logo="http://srv.painel.live:8080/images/599408407b0fcb2f0e56d1a919be5da0.jpg" group-title="RADIOS 24H",RADIO BANDEIRANTES  AM
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/56727.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO CBN SP" tvg-logo="http://srv.painel.live:8080/images/d32bbdeaac28dc2154fad27537f6fc3e.jpg" group-title="RADIOS 24H",RADIO CBN SP
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/97962.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO BAND FM SP" tvg-logo="http://srv.painel.live:8080/images/c1ecea5f482e7aa3f32cb2d41ef70ab9.jpg" group-title="RADIOS 24H",RADIO BAND FM SP
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/97963.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO CIDADE FM RJ" tvg-logo="http://srv.painel.live:8080/images/07c7a00a75baccdb636683a5424c3c3d.jpg" group-title="RADIOS 24H",RADIO CIDADE FM RJ
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/97967.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LOVETIMES" tvg-logo="http://srv.painel.live:8080/images/91fc822be0e607d175ba770e94c47f18.jpg" group-title="RADIOS 24H",LOVETIMES
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/97968.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO ANTENA 1 FM" tvg-logo="http://srv.painel.live:8080/images/e14fa936f9da89c3dc4fd7900a7e39e7.jpg" group-title="RADIOS 24H",RADIO ANTENA 1 FM
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/97969.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DANCEFLOOR" tvg-logo="http://srv.painel.live:8080/images/ad26c5fc0270bd2e0c4e1ef6fa5eda60.jpg" group-title="RADIOS 24H",DANCEFLOOR
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/97970.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SALSA" tvg-logo="http://srv.painel.live:8080/images/42f9bd5eabd6ece73bbc421e27806d8a.png" group-title="RADIOS 24H",SALSA
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/97971.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO ONDA LATINA FM" tvg-logo="http://srv.painel.live:8080/images/b3746d8c2aa9bdc3034d72e934536ca1.jpg" group-title="RADIOS 24H",RADIO ONDA LATINA FM
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/97972.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO MGT Sertanejo Universitário" tvg-logo="http://srv.painel.live:8080/images/5d64650da62f75b9aec05ac9754986ed.png" group-title="RADIOS 24H",RADIO MGT Sertanejo Universitário
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/97973.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO CULTURA FM" tvg-logo="http://srv.painel.live:8080/images/775edc3701e0b9701e869846056f4a4d.png" group-title="RADIOS 24H",RADIO CULTURA FM
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/97974.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO DAS ANTIGAS" tvg-logo="http://srv.painel.live:8080/images/dd626fbd678abc0c6481d44420a2b1f2.jpg" group-title="RADIOS 24H",RADIO DAS ANTIGAS
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/97975.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO VIVA FARROUPILHA" tvg-logo="http://srv.painel.live:8080/images/2e41a9795610c12aa4638b5236b7a279.jpg" group-title="RADIOS 24H",RADIO VIVA FARROUPILHA
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/97976.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROCK METAL" tvg-logo="http://srv.painel.live:8080/images/8024278dd5a533d89f9a78d1b11f7da6.png" group-title="RADIOS 24H",ROCK METAL
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/97977.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO NATIVA FM" tvg-logo="http://srv.painel.live:8080/images/ffcaeb53f4399abbbaceb7d267cc470b.jpg" group-title="RADIOS 24H",RADIO NATIVA FM
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/97978.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MPB" tvg-logo="http://srv.painel.live:8080/images/9db0b95efd715b0d2a66ff2b00c8a602.jpg" group-title="RADIOS 24H",MPB
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/97980.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LOVE CLASSICS" tvg-logo="http://srv.painel.live:8080/images/10321b16d908431402065c4dbfc8c9f6.jpg" group-title="RADIOS 24H",LOVE CLASSICS
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/97981.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO MIX FM" tvg-logo="http://srv.painel.live:8080/images/713ad93a0d5aa796e1487915470b190e.png" group-title="RADIOS 24H",RADIO MIX FM
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/97982.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FLASHBACK GOLD" tvg-logo="http://srv.painel.live:8080/images/96040bd72e63c66f2b7d1029f0032587.png" group-title="RADIOS 24H",FLASHBACK GOLD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/97983.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO GOSPEL HITS" tvg-logo="http://srv.painel.live:8080/images/884194e947148e3b932fe82e6998a4c8.jpg" group-title="RADIOS 24H",RADIO GOSPEL HITS
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/97984.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO EVANGELICA FM" tvg-logo="http://srv.painel.live:8080/images/c9be7c3f8a2b10150689f45d4c3e567d.jpg" group-title="RADIOS 24H",RADIO EVANGELICA FM
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/97995.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO GOSPEL ADORADORES " tvg-logo="http://srv.painel.live:8080/images/aab989654e782c3f10add4b3ed345e20.png" group-title="RADIOS 24H",RADIO GOSPEL ADORADORES 
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/97996.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GAY FM" tvg-logo="http://srv.painel.live:8080/images/856e569aace07ff861e8bab1ab6feaea.png" group-title="RADIOS 24H",GAY FM
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/97997.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CLASSIC ROCK REPLAY RADIO" tvg-logo="http://srv.painel.live:8080/images/710a54abad1fc499c3f722d869dc960e.png" group-title="RADIOS 24H",CLASSIC ROCK REPLAY RADIO
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/97998.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KIDS FM RADIO" tvg-logo="http://srv.painel.live:8080/images/a0abca1d0529ac7a5f7dc9067b63e08a.jpg" group-title="RADIOS 24H",KIDS FM RADIO
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/97999.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO NORDESTE FM" tvg-logo="http://srv.painel.live:8080/images/5e838c63ae1f68226a50657184a3072a.png" group-title="RADIOS 24H",RADIO NORDESTE FM
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98001.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO ROBERTO CARLOS" tvg-logo="http://srv.painel.live:8080/images/bb7395a78df19251d2c0d1001900f26f.jpg" group-title="RADIOS 24H",RADIO ROBERTO CARLOS
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98002.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO FM PADRE CÍCERO" tvg-logo="http://srv.painel.live:8080/images/0eedcf0e4986e318c14693b2df4c9d60.jpg" group-title="RADIOS 24H",RADIO FM PADRE CÍCERO
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98003.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO ARACATI" tvg-logo="http://srv.painel.live:8080/images/b97197860006393c678f95fa8a15c879.jpg" group-title="RADIOS 24H",RADIO ARACATI
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98004.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO CIDADE FM" tvg-logo="http://srv.painel.live:8080/images/7cfef460f3a4fde35e3d85b14da867f0.png" group-title="RADIOS 24H",RADIO CIDADE FM
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98006.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO ESTAÇÃO TOP" tvg-logo="http://srv.painel.live:8080/images/845d71ac389b6b28f522377c3aaacc7b.jpg" group-title="RADIOS 24H",RADIO ESTAÇÃO TOP
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98007.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO 940" tvg-logo="http://srv.painel.live:8080/images/5da1f338c9d98e32cea1561afbbd45f8.JPG" group-title="RADIOS 24H",RADIO 940
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98008.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO MASSA FM" tvg-logo="http://srv.painel.live:8080/images/cd4f842338a9f8091297af432cd86ec5.jpg" group-title="RADIOS 24H",RADIO MASSA FM
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98009.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO EVANGELIZAR " tvg-logo="http://srv.painel.live:8080/images/e01cfba4127abcb0db26b18fd5ce5d85.png" group-title="RADIOS 24H",RADIO EVANGELIZAR 
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98010.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SUPER RADIO TUPI" tvg-logo="http://srv.painel.live:8080/images/3a343ae50c3b1c9e08dd10776d60b2cc.jpg" group-title="RADIOS 24H",SUPER RADIO TUPI
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98012.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO SÓ FLASHBACK" tvg-logo="http://srv.painel.live:8080/images/4ea396a9d5d273f921099ed634accb79.png" group-title="RADIOS 24H",RADIO SÓ FLASHBACK
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98013.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO VILLA MIX" tvg-logo="http://srv.painel.live:8080/images/80753bbe3b92bd426091ffc7f7221c9f.jpg" group-title="RADIOS 24H",RADIO VILLA MIX
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98014.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO FAN FM ARACAJU" tvg-logo="http://srv.painel.live:8080/images/6e37990a733f4c434a6682c5ba503c0e.jpg" group-title="RADIOS 24H",RADIO FAN FM ARACAJU
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98015.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Classic Rock Florida" tvg-logo="http://srv.painel.live:8080/images/3ac34df8bf27132069c66361be9dc667.jpg" group-title="RADIOS 24H",Classic Rock Florida
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98021.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Beatles Radio" tvg-logo="http://srv.painel.live:8080/images/44a8f65490fb030b05ba4fb2c4313d3c.jpg" group-title="RADIOS 24H",Beatles Radio
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98022.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Celine Dion" tvg-logo="http://srv.painel.live:8080/images/052da44c945330c44da0d84c2d1f0100.jpg" group-title="RADIOS 24H",Radio Celine Dion
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98023.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio RMF - Queen" tvg-logo="http://srv.painel.live:8080/images/e0d4a4ed1dc60e8082bb85e25554119c.jpg" group-title="RADIOS 24H",Radio RMF - Queen
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98024.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Exclusivamente Bob Marley" tvg-logo="http://srv.painel.live:8080/images/7b5c799441b00f11bbdd64e021a2dbea.png" group-title="RADIOS 24H",Exclusivamente Bob Marley
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98025.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Pink Floyd" tvg-logo="http://srv.painel.live:8080/images/909d4943444bb0a276effda8c45acb3b.jpg" group-title="RADIOS 24H",Radio Pink Floyd
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98026.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Michael Jackson" tvg-logo="http://srv.painel.live:8080/images/e044c33d6f61e1632c4586acf1c31b19.jpg" group-title="RADIOS 24H",Radio Michael Jackson
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98027.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Frank Sinatra" tvg-logo="http://srv.painel.live:8080/images/6dfe3fa782f763e329231d65d0cf8d89.jpg" group-title="RADIOS 24H",Radio Frank Sinatra
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98028.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RAdio Raízes do Brasil" tvg-logo="http://srv.painel.live:8080/images/87218b6b1b70a3c959941f0274386d1c.jpg" group-title="RADIOS 24H",RAdio Raízes do Brasil
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98029.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio de sucessos instrumentais" tvg-logo="http://srv.painel.live:8080/images/c42d509193fa9a3f2d479f9975552dcf.png" group-title="RADIOS 24H",Radio de sucessos instrumentais
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98030.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCO" tvg-logo="http://srv.painel.live:8080/images/92fa743109ad4d282bfb086c1c96e194.png" group-title="RADIOS 24H",DISCO
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98031.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio - Pure Beethoven" tvg-logo="http://srv.painel.live:8080/images/ba542b8eab8012039253d0c75e64972d.jpg" group-title="RADIOS 24H",Radio - Pure Beethoven
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98032.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio - Pure Mozart" tvg-logo="http://srv.painel.live:8080/images/470ee31608e4477409b4857ecd5b9e92.jpg" group-title="RADIOS 24H",Radio - Pure Mozart
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98033.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Japan im radio" tvg-logo="http://srv.painel.live:8080/images/ebf8c4bf1738c3885a8550d92044a143.png" group-title="RADIOS 24H",Japan im radio
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98034.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="China Radio International" tvg-logo="http://srv.painel.live:8080/images/ebf8c4bf1738c3885a8550d92044a143.png" group-title="RADIOS 24H",China Radio International
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98035.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Islam Chile" tvg-logo="http://srv.painel.live:8080/images/ebf8c4bf1738c3885a8550d92044a143.png" group-title="RADIOS 24H",Radio Islam Chile
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98037.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO Beyonce" tvg-logo="http://srv.painel.live:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="RADIOS 24H",RADIO Beyonce
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98050.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="radio pilates" tvg-logo="http://srv.painel.live:8080/images/40dff9ad5e4d5d2ab8e9ae779b1a3198.jpg" group-title="RADIOS 24H",radio pilates
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98052.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SERTANEJA HITS RADIO" tvg-logo="http://srv.painel.live:8080/images/ebf8c4bf1738c3885a8550d92044a143.png" group-title="RADIOS 24H",SERTANEJA HITS RADIO
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98053.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Top Rap" tvg-logo="http://srv.painel.live:8080/images/ebf8c4bf1738c3885a8550d92044a143.png" group-title="RADIOS 24H",Top Rap
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98054.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colombia Bohemia" tvg-logo="http://srv.painel.live:8080/images/8eb14e9bc3bda6840fb1da6c63a4bb71.png" group-title="RADIOS 24H",Colombia Bohemia
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98055.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Forró" tvg-logo="http://srv.painel.live:8080/images/965c1d87f66f17ee15ed7b0d2d330f09.jpg" group-title="RADIOS 24H",Radio Forró
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98056.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Planet Rock" tvg-logo="http://srv.painel.live:8080/images/21529f5af77d9e810f0e0926c1858b9f.jpg" group-title="RADIOS 24H",Planet Rock
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98057.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Classic FM HOLANDA" tvg-logo="http://srv.painel.live:8080/images/62308e7c5c81ecd86fe0db41f5e31b60.jpg" group-title="RADIOS 24H",Classic FM HOLANDA
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98058.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pop Rock Brasil" tvg-logo="http://srv.painel.live:8080/images/99b126cc4faafe9309d96fe6948138ae.jpg" group-title="RADIOS 24H",Pop Rock Brasil
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98059.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rock FM Brasil" tvg-logo="http://srv.painel.live:8080/images/8093686a1e3d6a7f15cdddd5e4a17ca2.jpg" group-title="RADIOS 24H",Rock FM Brasil
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98060.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO LAURA PAUSINI" tvg-logo="http://srv.painel.live:8080/images/5a4c30f6fa25f1bea7138132ac300c60.jpg" group-title="RADIOS 24H",RADIO LAURA PAUSINI
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98062.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO Elton John" tvg-logo="http://srv.painel.live:8080/images/0ff7f6a588ffd33999ccf3a3ac03b302.jpg" group-title="RADIOS 24H",RADIO Elton John
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98063.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO Eminem" tvg-logo="http://srv.painel.live:8080/images/6dfe3fa782f763e329231d65d0cf8d89.jpg" group-title="RADIOS 24H",RADIO Eminem
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98064.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO MADONNA" tvg-logo="http://srv.painel.live:8080/images/404ffaeb874a4620e24a69ff92fbb590.jpg" group-title="RADIOS 24H",RADIO MADONNA
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98065.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO Guns N' Roses" tvg-logo="http://srv.painel.live:8080/images/7679d2eec8562dc2be866d8eba19c66c.jpg" group-title="RADIOS 24H",RADIO Guns N' Roses
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98066.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO Coldplay" tvg-logo="http://srv.painel.live:8080/images/a8ec70805bc1fa03cdecd2253d75f4a9.png" group-title="RADIOS 24H",RADIO Coldplay
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98067.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO Imagine Dragons" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/91/Imagine_Dragons_-_%22Radioactive%22_%28Single%29.jpg" group-title="RADIOS 24H",RADIO Imagine Dragons
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98068.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO Justin Bieber" tvg-logo="http://srv.painel.live:8080/images/b0dd2430656f48b178f9df33adc48e81.jpg" group-title="RADIOS 24H",RADIO Justin Bieber
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98069.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO Bon Jovi" tvg-logo="http://srv.painel.live:8080/images/cacf8255b68706635cb147215d799186.jpg" group-title="RADIOS 24H",RADIO Bon Jovi
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98070.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO Elvis Presley" tvg-logo="http://srv.painel.live:8080/images/d7ab2adb5543215eb095c2a1ca065014.jpg" group-title="RADIOS 24H",RADIO Elvis Presley
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98071.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO Aerosmith" tvg-logo="http://srv.painel.live:8080/images/aa2e346a49d94b355cee4beae27fe250.jpg" group-title="RADIOS 24H",RADIO Aerosmith
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98072.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO Linkin Park" tvg-logo="http://srv.painel.live:8080/images/a8ec70805bc1fa03cdecd2253d75f4a9.png" group-title="RADIOS 24H",RADIO Linkin Park
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98073.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO Scorpions" tvg-logo="http://srv.painel.live:8080/images/e8ddebaa2572433f632561ca204451c3.jpg" group-title="RADIOS 24H",RADIO Scorpions
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/98074.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADIO STUDIO SOUTO - FORRÓ" tvg-logo="http://srv.painel.live:8080/images/910f83ef7e59b3608465ece9ea170e0a.jpg" group-title="RADIOS 24H",RADIO STUDIO SOUTO - FORRÓ
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/110233.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FURACÃO PLAY FULL HD" tvg-logo="http://srv.painel.live:8080/images/7cf1ea1325fbd4bc70d9d5913fbf36c5.png" group-title="FURACÃO TV",FURACÃO PLAY FULL HD
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/119668.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA CAMERA 2" tvg-logo="http://srv.painel.live:8080/images/72d7f1b3fa631996c876807fb7b80b9c.png" group-title="A FAZENDA",A FAZENDA CAMERA 2
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/121386.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA CAMERA 3" tvg-logo="http://srv.painel.live:8080/images/72d7f1b3fa631996c876807fb7b80b9c.png" group-title="A FAZENDA",A FAZENDA CAMERA 3
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/121387.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA CAMERA 4" tvg-logo="http://srv.painel.live:8080/images/72d7f1b3fa631996c876807fb7b80b9c.png" group-title="A FAZENDA",A FAZENDA CAMERA 4
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/121388.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA CAMERA 5" tvg-logo="http://srv.painel.live:8080/images/72d7f1b3fa631996c876807fb7b80b9c.png" group-title="A FAZENDA",A FAZENDA CAMERA 5
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/121389.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA CAMERA 6" tvg-logo="http://srv.painel.live:8080/images/72d7f1b3fa631996c876807fb7b80b9c.png" group-title="A FAZENDA",A FAZENDA CAMERA 6
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/121390.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA CAMERA 7" tvg-logo="http://srv.painel.live:8080/images/72d7f1b3fa631996c876807fb7b80b9c.png" group-title="A FAZENDA",A FAZENDA CAMERA 7
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/121391.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA CAMERA 8" tvg-logo="http://srv.painel.live:8080/images/72d7f1b3fa631996c876807fb7b80b9c.png" group-title="A FAZENDA",A FAZENDA CAMERA 8
+http://login.companyiptv.com.br:8080/live/admin/v4r5p5wr/121392.m3u8
